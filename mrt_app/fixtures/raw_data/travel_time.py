@@ -25,7 +25,7 @@ def convert_to_json(rows):
     for station in station_info:
         station_info_dict[station['fields']['code']] = station['pk']
     output = []
-    pk = 0
+    pk = 1
     for row in rows:
         travel_times = row['TravelTimes']
         for travel_time in travel_times:

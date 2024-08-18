@@ -12,7 +12,7 @@ output = []
 for pk, row in enumerate(rows):
     data = {
         'model': 'mrt_app.station',
-        'pk': pk,
+        'pk': pk+1,
         'fields': {
             'code': row['StationID'],
             'name': row['StationName']['Zh_tw'],

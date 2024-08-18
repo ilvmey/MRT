@@ -1,0 +1,11 @@
+[
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 1,
+        "fields": {
+            "origin_station": 98,
+            "destination_station": 97,
+            "distance": 1
+        }
+    }
+]

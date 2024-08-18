@@ -1,0 +1,1732 @@
+[
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 0,
+        "fields": {
+            "from_station": 22,
+            "to_station": 21,
+            "run_time": 112,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 1,
+        "fields": {
+            "from_station": 21,
+            "to_station": 20,
+            "run_time": 109,
+            "stop_time": 24
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 2,
+        "fields": {
+            "from_station": 20,
+            "to_station": 19,
+            "run_time": 107,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 3,
+        "fields": {
+            "from_station": 19,
+            "to_station": 18,
+            "run_time": 76,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 4,
+        "fields": {
+            "from_station": 18,
+            "to_station": 17,
+            "run_time": 87,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 5,
+        "fields": {
+            "from_station": 17,
+            "to_station": 16,
+            "run_time": 77,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 6,
+        "fields": {
+            "from_station": 16,
+            "to_station": 15,
+            "run_time": 71,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 7,
+        "fields": {
+            "from_station": 15,
+            "to_station": 14,
+            "run_time": 65,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 8,
+        "fields": {
+            "from_station": 14,
+            "to_station": 13,
+            "run_time": 90,
+            "stop_time": 40
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 9,
+        "fields": {
+            "from_station": 13,
+            "to_station": 12,
+            "run_time": 81,
+            "stop_time": 40
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 10,
+        "fields": {
+            "from_station": 12,
+            "to_station": 11,
+            "run_time": 66,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 11,
+        "fields": {
+            "from_station": 11,
+            "to_station": 10,
+            "run_time": 120,
+            "stop_time": 42
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 12,
+        "fields": {
+            "from_station": 10,
+            "to_station": 9,
+            "run_time": 110,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 13,
+        "fields": {
+            "from_station": 9,
+            "to_station": 8,
+            "run_time": 192,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 14,
+        "fields": {
+            "from_station": 8,
+            "to_station": 7,
+            "run_time": 77,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 15,
+        "fields": {
+            "from_station": 7,
+            "to_station": 6,
+            "run_time": 107,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 16,
+        "fields": {
+            "from_station": 6,
+            "to_station": 5,
+            "run_time": 67,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 17,
+        "fields": {
+            "from_station": 5,
+            "to_station": 4,
+            "run_time": 102,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 18,
+        "fields": {
+            "from_station": 4,
+            "to_station": 3,
+            "run_time": 142,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 19,
+        "fields": {
+            "from_station": 3,
+            "to_station": 2,
+            "run_time": 106,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 20,
+        "fields": {
+            "from_station": 2,
+            "to_station": 1,
+            "run_time": 95,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 21,
+        "fields": {
+            "from_station": 1,
+            "to_station": 0,
+            "run_time": 180,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 22,
+        "fields": {
+            "from_station": 22,
+            "to_station": 21,
+            "run_time": 112,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 23,
+        "fields": {
+            "from_station": 21,
+            "to_station": 20,
+            "run_time": 109,
+            "stop_time": 24
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 24,
+        "fields": {
+            "from_station": 20,
+            "to_station": 19,
+            "run_time": 107,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 25,
+        "fields": {
+            "from_station": 19,
+            "to_station": 18,
+            "run_time": 76,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 26,
+        "fields": {
+            "from_station": 18,
+            "to_station": 17,
+            "run_time": 87,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 27,
+        "fields": {
+            "from_station": 17,
+            "to_station": 16,
+            "run_time": 77,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 28,
+        "fields": {
+            "from_station": 16,
+            "to_station": 15,
+            "run_time": 71,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 29,
+        "fields": {
+            "from_station": 15,
+            "to_station": 14,
+            "run_time": 65,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 30,
+        "fields": {
+            "from_station": 14,
+            "to_station": 13,
+            "run_time": 90,
+            "stop_time": 40
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 31,
+        "fields": {
+            "from_station": 13,
+            "to_station": 12,
+            "run_time": 81,
+            "stop_time": 40
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 32,
+        "fields": {
+            "from_station": 12,
+            "to_station": 11,
+            "run_time": 66,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 33,
+        "fields": {
+            "from_station": 11,
+            "to_station": 10,
+            "run_time": 120,
+            "stop_time": 42
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 34,
+        "fields": {
+            "from_station": 10,
+            "to_station": 9,
+            "run_time": 110,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 35,
+        "fields": {
+            "from_station": 9,
+            "to_station": 8,
+            "run_time": 192,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 36,
+        "fields": {
+            "from_station": 8,
+            "to_station": 7,
+            "run_time": 77,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 37,
+        "fields": {
+            "from_station": 7,
+            "to_station": 6,
+            "run_time": 107,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 38,
+        "fields": {
+            "from_station": 6,
+            "to_station": 5,
+            "run_time": 67,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 39,
+        "fields": {
+            "from_station": 5,
+            "to_station": 4,
+            "run_time": 102,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 40,
+        "fields": {
+            "from_station": 46,
+            "to_station": 45,
+            "run_time": 78,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 41,
+        "fields": {
+            "from_station": 45,
+            "to_station": 44,
+            "run_time": 85,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 42,
+        "fields": {
+            "from_station": 44,
+            "to_station": 43,
+            "run_time": 78,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 43,
+        "fields": {
+            "from_station": 43,
+            "to_station": 42,
+            "run_time": 121,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 44,
+        "fields": {
+            "from_station": 42,
+            "to_station": 41,
+            "run_time": 71,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 45,
+        "fields": {
+            "from_station": 41,
+            "to_station": 40,
+            "run_time": 78,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 46,
+        "fields": {
+            "from_station": 40,
+            "to_station": 39,
+            "run_time": 72,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 47,
+        "fields": {
+            "from_station": 39,
+            "to_station": 38,
+            "run_time": 65,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 48,
+        "fields": {
+            "from_station": 38,
+            "to_station": 37,
+            "run_time": 110,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 49,
+        "fields": {
+            "from_station": 37,
+            "to_station": 36,
+            "run_time": 103,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 50,
+        "fields": {
+            "from_station": 36,
+            "to_station": 35,
+            "run_time": 172,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 51,
+        "fields": {
+            "from_station": 35,
+            "to_station": 34,
+            "run_time": 142,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 52,
+        "fields": {
+            "from_station": 34,
+            "to_station": 33,
+            "run_time": 66,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 53,
+        "fields": {
+            "from_station": 33,
+            "to_station": 32,
+            "run_time": 86,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 54,
+        "fields": {
+            "from_station": 32,
+            "to_station": 31,
+            "run_time": 67,
+            "stop_time": 45
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 55,
+        "fields": {
+            "from_station": 31,
+            "to_station": 30,
+            "run_time": 69,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 56,
+        "fields": {
+            "from_station": 30,
+            "to_station": 29,
+            "run_time": 122,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 57,
+        "fields": {
+            "from_station": 29,
+            "to_station": 28,
+            "run_time": 72,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 58,
+        "fields": {
+            "from_station": 28,
+            "to_station": 27,
+            "run_time": 124,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 59,
+        "fields": {
+            "from_station": 27,
+            "to_station": 26,
+            "run_time": 106,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 60,
+        "fields": {
+            "from_station": 26,
+            "to_station": 25,
+            "run_time": 99,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 61,
+        "fields": {
+            "from_station": 25,
+            "to_station": 24,
+            "run_time": 47,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 62,
+        "fields": {
+            "from_station": 24,
+            "to_station": 23,
+            "run_time": 67,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 63,
+        "fields": {
+            "from_station": 65,
+            "to_station": 64,
+            "run_time": 138,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 64,
+        "fields": {
+            "from_station": 64,
+            "to_station": 63,
+            "run_time": 102,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 65,
+        "fields": {
+            "from_station": 63,
+            "to_station": 62,
+            "run_time": 84,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 66,
+        "fields": {
+            "from_station": 62,
+            "to_station": 61,
+            "run_time": 92,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 67,
+        "fields": {
+            "from_station": 61,
+            "to_station": 60,
+            "run_time": 106,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 68,
+        "fields": {
+            "from_station": 60,
+            "to_station": 59,
+            "run_time": 116,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 69,
+        "fields": {
+            "from_station": 59,
+            "to_station": 58,
+            "run_time": 86,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 70,
+        "fields": {
+            "from_station": 58,
+            "to_station": 57,
+            "run_time": 83,
+            "stop_time": 34
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 71,
+        "fields": {
+            "from_station": 57,
+            "to_station": 56,
+            "run_time": 76,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 72,
+        "fields": {
+            "from_station": 56,
+            "to_station": 55,
+            "run_time": 87,
+            "stop_time": 38
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 73,
+        "fields": {
+            "from_station": 55,
+            "to_station": 54,
+            "run_time": 85,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 74,
+        "fields": {
+            "from_station": 54,
+            "to_station": 53,
+            "run_time": 79,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 75,
+        "fields": {
+            "from_station": 53,
+            "to_station": 52,
+            "run_time": 122,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 76,
+        "fields": {
+            "from_station": 52,
+            "to_station": 51,
+            "run_time": 89,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 77,
+        "fields": {
+            "from_station": 51,
+            "to_station": 50,
+            "run_time": 92,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 78,
+        "fields": {
+            "from_station": 50,
+            "to_station": 49,
+            "run_time": 78,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 79,
+        "fields": {
+            "from_station": 49,
+            "to_station": 48,
+            "run_time": 81,
+            "stop_time": 24
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 80,
+        "fields": {
+            "from_station": 48,
+            "to_station": 47,
+            "run_time": 111,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 81,
+        "fields": {
+            "from_station": 65,
+            "to_station": 64,
+            "run_time": 138,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 82,
+        "fields": {
+            "from_station": 64,
+            "to_station": 63,
+            "run_time": 102,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 83,
+        "fields": {
+            "from_station": 63,
+            "to_station": 62,
+            "run_time": 84,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 84,
+        "fields": {
+            "from_station": 62,
+            "to_station": 61,
+            "run_time": 92,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 85,
+        "fields": {
+            "from_station": 61,
+            "to_station": 60,
+            "run_time": 106,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 86,
+        "fields": {
+            "from_station": 60,
+            "to_station": 59,
+            "run_time": 116,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 87,
+        "fields": {
+            "from_station": 59,
+            "to_station": 58,
+            "run_time": 86,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 88,
+        "fields": {
+            "from_station": 58,
+            "to_station": 57,
+            "run_time": 83,
+            "stop_time": 34
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 89,
+        "fields": {
+            "from_station": 57,
+            "to_station": 56,
+            "run_time": 76,
+            "stop_time": 27
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 90,
+        "fields": {
+            "from_station": 56,
+            "to_station": 55,
+            "run_time": 87,
+            "stop_time": 38
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 91,
+        "fields": {
+            "from_station": 55,
+            "to_station": 54,
+            "run_time": 85,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 92,
+        "fields": {
+            "from_station": 49,
+            "to_station": 66,
+            "run_time": 203,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 93,
+        "fields": {
+            "from_station": 87,
+            "to_station": 86,
+            "run_time": 168,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 94,
+        "fields": {
+            "from_station": 86,
+            "to_station": 85,
+            "run_time": 113,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 95,
+        "fields": {
+            "from_station": 85,
+            "to_station": 84,
+            "run_time": 137,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 96,
+        "fields": {
+            "from_station": 84,
+            "to_station": 83,
+            "run_time": 94,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 97,
+        "fields": {
+            "from_station": 83,
+            "to_station": 82,
+            "run_time": 108,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 98,
+        "fields": {
+            "from_station": 82,
+            "to_station": 81,
+            "run_time": 142,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 99,
+        "fields": {
+            "from_station": 81,
+            "to_station": 80,
+            "run_time": 84,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 100,
+        "fields": {
+            "from_station": 80,
+            "to_station": 79,
+            "run_time": 97,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 101,
+        "fields": {
+            "from_station": 79,
+            "to_station": 78,
+            "run_time": 127,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 102,
+        "fields": {
+            "from_station": 78,
+            "to_station": 77,
+            "run_time": 72,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 103,
+        "fields": {
+            "from_station": 77,
+            "to_station": 76,
+            "run_time": 72,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 104,
+        "fields": {
+            "from_station": 76,
+            "to_station": 75,
+            "run_time": 96,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 105,
+        "fields": {
+            "from_station": 75,
+            "to_station": 74,
+            "run_time": 78,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 106,
+        "fields": {
+            "from_station": 74,
+            "to_station": 73,
+            "run_time": 102,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 107,
+        "fields": {
+            "from_station": 73,
+            "to_station": 72,
+            "run_time": 136,
+            "stop_time": 38
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 108,
+        "fields": {
+            "from_station": 72,
+            "to_station": 71,
+            "run_time": 208,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 109,
+        "fields": {
+            "from_station": 71,
+            "to_station": 70,
+            "run_time": 187,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 110,
+        "fields": {
+            "from_station": 70,
+            "to_station": 69,
+            "run_time": 103,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 111,
+        "fields": {
+            "from_station": 69,
+            "to_station": 68,
+            "run_time": 90,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 112,
+        "fields": {
+            "from_station": 68,
+            "to_station": 67,
+            "run_time": 97,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 113,
+        "fields": {
+            "from_station": 92,
+            "to_station": 91,
+            "run_time": 111,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 114,
+        "fields": {
+            "from_station": 91,
+            "to_station": 90,
+            "run_time": 92,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 115,
+        "fields": {
+            "from_station": 90,
+            "to_station": 89,
+            "run_time": 82,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 116,
+        "fields": {
+            "from_station": 89,
+            "to_station": 88,
+            "run_time": 107,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 117,
+        "fields": {
+            "from_station": 88,
+            "to_station": 78,
+            "run_time": 151,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 118,
+        "fields": {
+            "from_station": 78,
+            "to_station": 77,
+            "run_time": 72,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 119,
+        "fields": {
+            "from_station": 77,
+            "to_station": 76,
+            "run_time": 72,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 120,
+        "fields": {
+            "from_station": 76,
+            "to_station": 75,
+            "run_time": 96,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 121,
+        "fields": {
+            "from_station": 75,
+            "to_station": 74,
+            "run_time": 78,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 122,
+        "fields": {
+            "from_station": 74,
+            "to_station": 73,
+            "run_time": 102,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 123,
+        "fields": {
+            "from_station": 73,
+            "to_station": 72,
+            "run_time": 136,
+            "stop_time": 38
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 124,
+        "fields": {
+            "from_station": 72,
+            "to_station": 71,
+            "run_time": 208,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 125,
+        "fields": {
+            "from_station": 71,
+            "to_station": 70,
+            "run_time": 187,
+            "stop_time": 33
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 126,
+        "fields": {
+            "from_station": 70,
+            "to_station": 69,
+            "run_time": 103,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 127,
+        "fields": {
+            "from_station": 69,
+            "to_station": 68,
+            "run_time": 90,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 128,
+        "fields": {
+            "from_station": 68,
+            "to_station": 67,
+            "run_time": 97,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 129,
+        "fields": {
+            "from_station": 119,
+            "to_station": 118,
+            "run_time": 175,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 130,
+        "fields": {
+            "from_station": 118,
+            "to_station": 117,
+            "run_time": 138,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 131,
+        "fields": {
+            "from_station": 117,
+            "to_station": 116,
+            "run_time": 148,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 132,
+        "fields": {
+            "from_station": 116,
+            "to_station": 115,
+            "run_time": 80,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 133,
+        "fields": {
+            "from_station": 115,
+            "to_station": 114,
+            "run_time": 112,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 134,
+        "fields": {
+            "from_station": 114,
+            "to_station": 113,
+            "run_time": 135,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 135,
+        "fields": {
+            "from_station": 113,
+            "to_station": 112,
+            "run_time": 91,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 136,
+        "fields": {
+            "from_station": 112,
+            "to_station": 111,
+            "run_time": 75,
+            "stop_time": 23
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 137,
+        "fields": {
+            "from_station": 111,
+            "to_station": 110,
+            "run_time": 103,
+            "stop_time": 24
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 138,
+        "fields": {
+            "from_station": 110,
+            "to_station": 109,
+            "run_time": 63,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 139,
+        "fields": {
+            "from_station": 109,
+            "to_station": 108,
+            "run_time": 79,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 140,
+        "fields": {
+            "from_station": 108,
+            "to_station": 107,
+            "run_time": 94,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 141,
+        "fields": {
+            "from_station": 107,
+            "to_station": 106,
+            "run_time": 95,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 142,
+        "fields": {
+            "from_station": 106,
+            "to_station": 105,
+            "run_time": 112,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 143,
+        "fields": {
+            "from_station": 105,
+            "to_station": 104,
+            "run_time": 88,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 144,
+        "fields": {
+            "from_station": 104,
+            "to_station": 103,
+            "run_time": 60,
+            "stop_time": 34
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 145,
+        "fields": {
+            "from_station": 103,
+            "to_station": 102,
+            "run_time": 62,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 146,
+        "fields": {
+            "from_station": 102,
+            "to_station": 101,
+            "run_time": 68,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 147,
+        "fields": {
+            "from_station": 101,
+            "to_station": 100,
+            "run_time": 67,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 148,
+        "fields": {
+            "from_station": 100,
+            "to_station": 99,
+            "run_time": 95,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 149,
+        "fields": {
+            "from_station": 99,
+            "to_station": 98,
+            "run_time": 175,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 150,
+        "fields": {
+            "from_station": 98,
+            "to_station": 97,
+            "run_time": 75,
+            "stop_time": 31
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 151,
+        "fields": {
+            "from_station": 97,
+            "to_station": 96,
+            "run_time": 74,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 152,
+        "fields": {
+            "from_station": 96,
+            "to_station": 95,
+            "run_time": 90,
+            "stop_time": 37
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 153,
+        "fields": {
+            "from_station": 95,
+            "to_station": 94,
+            "run_time": 94,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 154,
+        "fields": {
+            "from_station": 94,
+            "to_station": 93,
+            "run_time": 93,
+            "stop_time": 29
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 155,
+        "fields": {
+            "from_station": 113,
+            "to_station": 112,
+            "run_time": 91,
+            "stop_time": 0
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 156,
+        "fields": {
+            "from_station": 112,
+            "to_station": 111,
+            "run_time": 75,
+            "stop_time": 23
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 157,
+        "fields": {
+            "from_station": 111,
+            "to_station": 110,
+            "run_time": 103,
+            "stop_time": 24
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 158,
+        "fields": {
+            "from_station": 110,
+            "to_station": 109,
+            "run_time": 63,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 159,
+        "fields": {
+            "from_station": 109,
+            "to_station": 108,
+            "run_time": 79,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 160,
+        "fields": {
+            "from_station": 108,
+            "to_station": 107,
+            "run_time": 94,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 161,
+        "fields": {
+            "from_station": 107,
+            "to_station": 106,
+            "run_time": 95,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 162,
+        "fields": {
+            "from_station": 106,
+            "to_station": 105,
+            "run_time": 112,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 163,
+        "fields": {
+            "from_station": 105,
+            "to_station": 104,
+            "run_time": 88,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 164,
+        "fields": {
+            "from_station": 104,
+            "to_station": 103,
+            "run_time": 60,
+            "stop_time": 34
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 165,
+        "fields": {
+            "from_station": 103,
+            "to_station": 102,
+            "run_time": 62,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 166,
+        "fields": {
+            "from_station": 102,
+            "to_station": 101,
+            "run_time": 68,
+            "stop_time": 28
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 167,
+        "fields": {
+            "from_station": 101,
+            "to_station": 100,
+            "run_time": 67,
+            "stop_time": 35
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 168,
+        "fields": {
+            "from_station": 100,
+            "to_station": 99,
+            "run_time": 95,
+            "stop_time": 26
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 169,
+        "fields": {
+            "from_station": 99,
+            "to_station": 98,
+            "run_time": 175,
+            "stop_time": 30
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 170,
+        "fields": {
+            "from_station": 98,
+            "to_station": 97,
+            "run_time": 75,
+            "stop_time": 31
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 171,
+        "fields": {
+            "from_station": 97,
+            "to_station": 96,
+            "run_time": 74,
+            "stop_time": 25
+        }
+    },
+    {
+        "model": "mrt_app.traveltime",
+        "pk": 172,
+        "fields": {
+            "from_station": 113,
+            "to_station": 120,
+            "run_time": 157,
+            "stop_time": 0
+        }
+    }
+]

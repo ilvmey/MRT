@@ -57,7 +57,8 @@
             "program": "${workspaceFolder}/manage.py",
             "args": [
                 "loaddata",
-                "station.json"
+                "station.json",
+                "travel_time.json",
             ],
             "django": true,
             "justMyCode": false

@@ -1,11 +1,12 @@
-import csv
 import json
 
-filename = 'mrt_app/fixtures/station.csv'
+# https://tdx.transportdata.tw/api-service/swagger/basic/268fc230-2e04-471b-a728-a726167c1cfc#/Metro/MetroApi_Station_2092
+
+filename = 'mrt_app/fixtures/raw_data/station.json'
 
 with open(filename, mode='r', encoding='utf-8') as file:
-    reader = csv.reader(file)
-    rows = [row for row in reader]
+    with open(filename, mode='r', encoding='utf-8') as file:
+        rows = json.load(file)
 
 output = []
 for pk, row in enumerate(rows):
@@ -13,9 +14,9 @@ for pk, row in enumerate(rows):
         'model': 'mrt_app.station',
         'pk': pk,
         'fields': {
-            'code': row[0],
-            'name': row[1],
-            'english_name': row[2]
+            'code': row['StationID'],
+            'name': row['StationName']['Zh_tw'],
+            'english_name': row['StationName']['En'],
         }
     }
 

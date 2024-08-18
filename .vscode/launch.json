@@ -57,7 +57,7 @@
             "program": "${workspaceFolder}/manage.py",
             "args": [
                 "loaddata",
-                "data.json"
+                "station.json"
             ],
             "django": true,
             "justMyCode": false

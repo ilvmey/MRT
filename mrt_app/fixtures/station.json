@@ -1,0 +1,1082 @@
+[
+    {
+        "model": "mrt_app.station",
+        "pk": 0,
+        "fields": {
+            "code": "BR01",
+            "name": "動物園",
+            "english_name": "Taipei Zoo"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 1,
+        "fields": {
+            "code": "BR02",
+            "name": "木柵",
+            "english_name": "Muzha"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 2,
+        "fields": {
+            "code": "BR03",
+            "name": "萬芳社區",
+            "english_name": "Wanfang Community"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 3,
+        "fields": {
+            "code": "BR04",
+            "name": "萬芳醫院",
+            "english_name": "Wanfang Hospital"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 4,
+        "fields": {
+            "code": "BR05",
+            "name": "辛亥",
+            "english_name": "Xinhai"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 5,
+        "fields": {
+            "code": "BR06",
+            "name": "麟光",
+            "english_name": "Linguang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 6,
+        "fields": {
+            "code": "BR07",
+            "name": "六張犁",
+            "english_name": "Liuzhangli"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 7,
+        "fields": {
+            "code": "BR08",
+            "name": "科技大樓",
+            "english_name": "Technology Building"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 8,
+        "fields": {
+            "code": "BR09",
+            "name": "大安",
+            "english_name": "Daan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 9,
+        "fields": {
+            "code": "R05",
+            "name": "大安",
+            "english_name": "Daan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 10,
+        "fields": {
+            "code": "BR10",
+            "name": "忠孝復興",
+            "english_name": "Zhongxiao Fuxing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 11,
+        "fields": {
+            "code": "BL15",
+            "name": "忠孝復興",
+            "english_name": "Zhongxiao Fuxing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 12,
+        "fields": {
+            "code": "BR12",
+            "name": "中山國中",
+            "english_name": "Zhongshan Junior High School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 13,
+        "fields": {
+            "code": "BR13",
+            "name": "松山機場",
+            "english_name": "Songshan Airport"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 14,
+        "fields": {
+            "code": "BR14",
+            "name": "大直",
+            "english_name": "Dazhi"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 15,
+        "fields": {
+            "code": "BR15",
+            "name": "劍南路",
+            "english_name": "Jiannan Rd."
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 16,
+        "fields": {
+            "code": "BR16",
+            "name": "西湖",
+            "english_name": "Xihu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 17,
+        "fields": {
+            "code": "BR17",
+            "name": "港墘",
+            "english_name": "Gangqian"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 18,
+        "fields": {
+            "code": "BR18",
+            "name": "文德",
+            "english_name": "Wende"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 19,
+        "fields": {
+            "code": "BR19",
+            "name": "內湖",
+            "english_name": "Neihu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 20,
+        "fields": {
+            "code": "BR20",
+            "name": "大湖公園",
+            "english_name": "Dahu Park"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 21,
+        "fields": {
+            "code": "BR21",
+            "name": "葫洲",
+            "english_name": "Huzhou"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 22,
+        "fields": {
+            "code": "BR22",
+            "name": "東湖",
+            "english_name": "Donghu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 23,
+        "fields": {
+            "code": "BR23",
+            "name": "南港軟體園區",
+            "english_name": "Nangang Software Park"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 24,
+        "fields": {
+            "code": "BR24",
+            "name": "南港展覽館",
+            "english_name": "Taipei Nangang Exhibition Center"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 25,
+        "fields": {
+            "code": "BL23",
+            "name": "南港展覽館",
+            "english_name": "Taipei Nangang Exhibition Center"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 26,
+        "fields": {
+            "code": "R02",
+            "name": "象山",
+            "english_name": "Xiangshan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 27,
+        "fields": {
+            "code": "R03",
+            "name": "台北101/世貿",
+            "english_name": "Taipei 101/World Trade Center"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 28,
+        "fields": {
+            "code": "R04",
+            "name": "信義安和",
+            "english_name": "Xinyi Anhe"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 29,
+        "fields": {
+            "code": "R06",
+            "name": "大安森林公園",
+            "english_name": "Daan Park"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 30,
+        "fields": {
+            "code": "R07",
+            "name": "東門",
+            "english_name": "Dongmen"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 31,
+        "fields": {
+            "code": "R08",
+            "name": "中正紀念堂",
+            "english_name": "Chiang Kai-Shek Memorial Hall"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 32,
+        "fields": {
+            "code": "G10",
+            "name": "中正紀念堂",
+            "english_name": "Chiang Kai-Shek Memorial Hall"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 33,
+        "fields": {
+            "code": "R09",
+            "name": "台大醫院",
+            "english_name": "NTU Hospital"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 34,
+        "fields": {
+            "code": "R10",
+            "name": "台北車站",
+            "english_name": "Taipei Main Station"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 35,
+        "fields": {
+            "code": "BL12",
+            "name": "台北車站",
+            "english_name": "Taipei Main Station"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 36,
+        "fields": {
+            "code": "R11",
+            "name": "中山",
+            "english_name": "Zhongshan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 37,
+        "fields": {
+            "code": "G14",
+            "name": "中山",
+            "english_name": "Zhongshan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 38,
+        "fields": {
+            "code": "R12",
+            "name": "雙連",
+            "english_name": "Shuanglian"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 39,
+        "fields": {
+            "code": "R13",
+            "name": "民權西路",
+            "english_name": "Minzuan W. Rd."
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 40,
+        "fields": {
+            "code": "O11",
+            "name": "民權西路",
+            "english_name": "Minzuan W. Rd."
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 41,
+        "fields": {
+            "code": "R14",
+            "name": "圓山",
+            "english_name": "Yuanshan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 42,
+        "fields": {
+            "code": "R15",
+            "name": "劍潭",
+            "english_name": "Jiantan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 43,
+        "fields": {
+            "code": "R16",
+            "name": "士林",
+            "english_name": "Shilin"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 44,
+        "fields": {
+            "code": "R17",
+            "name": "芝山",
+            "english_name": "Zhishan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 45,
+        "fields": {
+            "code": "R18",
+            "name": "明德",
+            "english_name": "Mingde"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 46,
+        "fields": {
+            "code": "R19",
+            "name": "石牌",
+            "english_name": "Shipai"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 47,
+        "fields": {
+            "code": "R20",
+            "name": "唭哩岸",
+            "english_name": "Qilian"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 48,
+        "fields": {
+            "code": "R21",
+            "name": "奇岩",
+            "english_name": "Qiyan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 49,
+        "fields": {
+            "code": "R22",
+            "name": "北投",
+            "english_name": "Beitou"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 50,
+        "fields": {
+            "code": "R22A",
+            "name": "新北投",
+            "english_name": "Xinbeitou"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 51,
+        "fields": {
+            "code": "R23",
+            "name": "復興崗",
+            "english_name": "Fuxinggang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 52,
+        "fields": {
+            "code": "R24",
+            "name": "忠義",
+            "english_name": "Zhongyi"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 53,
+        "fields": {
+            "code": "R25",
+            "name": "關渡",
+            "english_name": "Guandu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 54,
+        "fields": {
+            "code": "R26",
+            "name": "竹圍",
+            "english_name": "Zhuwei"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 55,
+        "fields": {
+            "code": "R27",
+            "name": "紅樹林",
+            "english_name": "Hongshulin"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 56,
+        "fields": {
+            "code": "R28",
+            "name": "淡水",
+            "english_name": "Tamsui"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 57,
+        "fields": {
+            "code": "G01",
+            "name": "新店",
+            "english_name": "Xindian"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 58,
+        "fields": {
+            "code": "G02",
+            "name": "新店區公所",
+            "english_name": "Xindian District Office"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 59,
+        "fields": {
+            "code": "G03",
+            "name": "七張",
+            "english_name": "Qizhang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 60,
+        "fields": {
+            "code": "G01A",
+            "name": "小碧潭",
+            "english_name": "Xiaobitan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 61,
+        "fields": {
+            "code": "G04",
+            "name": "大坪林",
+            "english_name": "Dapinglin"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 62,
+        "fields": {
+            "code": "G05",
+            "name": "景美",
+            "english_name": "Jingmei"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 63,
+        "fields": {
+            "code": "G06",
+            "name": "萬隆",
+            "english_name": "Wanlong"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 64,
+        "fields": {
+            "code": "G07",
+            "name": "公館",
+            "english_name": "Gongguan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 65,
+        "fields": {
+            "code": "G08",
+            "name": "台電大樓",
+            "english_name": "Taipower Building"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 66,
+        "fields": {
+            "code": "G09",
+            "name": "古亭",
+            "english_name": "Guting"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 67,
+        "fields": {
+            "code": "O05",
+            "name": "古亭",
+            "english_name": "Guting"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 68,
+        "fields": {
+            "code": "G11",
+            "name": "小南門",
+            "english_name": "Xiaonanmen"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 69,
+        "fields": {
+            "code": "G13",
+            "name": "北門",
+            "english_name": "Beimen"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 70,
+        "fields": {
+            "code": "G15",
+            "name": "松江南京",
+            "english_name": "Songliang Nanjing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 71,
+        "fields": {
+            "code": "O08",
+            "name": "松江南京",
+            "english_name": "Songliang Nanjing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 72,
+        "fields": {
+            "code": "G16",
+            "name": "南京復興",
+            "english_name": "Nanjing Fuxing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 73,
+        "fields": {
+            "code": "BR11",
+            "name": "南京復興",
+            "english_name": "Nanjing Fuxing"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 74,
+        "fields": {
+            "code": "G17",
+            "name": "台北小巨蛋",
+            "english_name": "Taipei Arena"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 75,
+        "fields": {
+            "code": "G18",
+            "name": "南京三民",
+            "english_name": "Nanjing Sanmin"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 76,
+        "fields": {
+            "code": "G19",
+            "name": "松山",
+            "english_name": "Songshan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 77,
+        "fields": {
+            "code": "O01",
+            "name": "南勢角",
+            "english_name": "Nanshijiao"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 78,
+        "fields": {
+            "code": "O02",
+            "name": "景安",
+            "english_name": "Jingan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 79,
+        "fields": {
+            "code": "O03",
+            "name": "永安市場",
+            "english_name": "Yongan Market"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 80,
+        "fields": {
+            "code": "O04",
+            "name": "頂溪",
+            "english_name": "Dingxi"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 81,
+        "fields": {
+            "code": "O09",
+            "name": "行天宮",
+            "english_name": "Xingtian Temple"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 82,
+        "fields": {
+            "code": "O10",
+            "name": "中山國小",
+            "english_name": "Zhongshan Elementary School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 83,
+        "fields": {
+            "code": "O12",
+            "name": "大橋頭",
+            "english_name": "Daqiaotou"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 84,
+        "fields": {
+            "code": "O13",
+            "name": "台北橋",
+            "english_name": "Taipei Bridge"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 85,
+        "fields": {
+            "code": "O14",
+            "name": "菜寮",
+            "english_name": "Cailiao"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 86,
+        "fields": {
+            "code": "O15",
+            "name": "三重",
+            "english_name": "Sanchong"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 87,
+        "fields": {
+            "code": "O16",
+            "name": "先嗇宮",
+            "english_name": "Xianse Temple"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 88,
+        "fields": {
+            "code": "O17",
+            "name": "頭前庄",
+            "english_name": "Touqianzhuang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 89,
+        "fields": {
+            "code": "O18",
+            "name": "新莊",
+            "english_name": "Xinzhuang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 90,
+        "fields": {
+            "code": "O19",
+            "name": "輔大",
+            "english_name": "Fu Jen University"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 91,
+        "fields": {
+            "code": "O20",
+            "name": "丹鳳",
+            "english_name": "Danfeng"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 92,
+        "fields": {
+            "code": "O21",
+            "name": "迴龍",
+            "english_name": "Huilong"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 93,
+        "fields": {
+            "code": "O50",
+            "name": "三重國小",
+            "english_name": "Sanchong Elementary School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 94,
+        "fields": {
+            "code": "O51",
+            "name": "三和國中",
+            "english_name": "Sanhe Junior High School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 95,
+        "fields": {
+            "code": "O52",
+            "name": "徐匯中學",
+            "english_name": "St.lgnatius High School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 96,
+        "fields": {
+            "code": "O53",
+            "name": "三民高中",
+            "english_name": "Sanmin Senior High School"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 97,
+        "fields": {
+            "code": "O54",
+            "name": "蘆洲",
+            "english_name": "Luzhou"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 98,
+        "fields": {
+            "code": "BL01",
+            "name": "頂埔",
+            "english_name": "Dingpu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 99,
+        "fields": {
+            "code": "BL02",
+            "name": "永寧",
+            "english_name": "Yongning"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 100,
+        "fields": {
+            "code": "BL03",
+            "name": "土城",
+            "english_name": "Tucheng"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 101,
+        "fields": {
+            "code": "BL04",
+            "name": "海山",
+            "english_name": "Haishan"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 102,
+        "fields": {
+            "code": "BL05",
+            "name": "亞東醫院",
+            "english_name": "Far Eastern Hospital"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 103,
+        "fields": {
+            "code": "BL06",
+            "name": "府中",
+            "english_name": "Fuzhong"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 104,
+        "fields": {
+            "code": "BL07",
+            "name": "板橋",
+            "english_name": "Banqiao"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 105,
+        "fields": {
+            "code": "BL08",
+            "name": "新埔",
+            "english_name": "Xinpu"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 106,
+        "fields": {
+            "code": "BL09",
+            "name": "江子翠",
+            "english_name": "Jiangzicui"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 107,
+        "fields": {
+            "code": "BL10",
+            "name": "龍山寺",
+            "english_name": "Longshan Temple"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 108,
+        "fields": {
+            "code": "BL11",
+            "name": "西門",
+            "english_name": "Ximen"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 109,
+        "fields": {
+            "code": "G12",
+            "name": "西門",
+            "english_name": "Ximen"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 110,
+        "fields": {
+            "code": "BL13",
+            "name": "善導寺",
+            "english_name": "Shandao Temple"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 111,
+        "fields": {
+            "code": "BL14",
+            "name": "忠孝新生",
+            "english_name": "Zhongxiao Xinsheng"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 112,
+        "fields": {
+            "code": "O07",
+            "name": "忠孝新生",
+            "english_name": "Zhongxiao Xinsheng"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 113,
+        "fields": {
+            "code": "BL16",
+            "name": "忠孝敦化",
+            "english_name": "Xhongxiao Dunhua"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 114,
+        "fields": {
+            "code": "BL17",
+            "name": "國父紀念館",
+            "english_name": "Sun Yat-Sen Memorial Hall"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 115,
+        "fields": {
+            "code": "BL18",
+            "name": "市政府",
+            "english_name": "Taipei City Hall"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 116,
+        "fields": {
+            "code": "BL19",
+            "name": "永春",
+            "english_name": "Yongchun"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 117,
+        "fields": {
+            "code": "BL20",
+            "name": "後山埤",
+            "english_name": "Houshanpi"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 118,
+        "fields": {
+            "code": "BL21",
+            "name": "昆陽",
+            "english_name": "Kunyang"
+        }
+    },
+    {
+        "model": "mrt_app.station",
+        "pk": 119,
+        "fields": {
+            "code": "BL22",
+            "name": "南港",
+            "english_name": "Nangang"
+        }
+    }
+]

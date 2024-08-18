@@ -59,7 +59,6 @@
                 "loaddata",
                 "station.json",
                 // "travel_time.json",
-                "adjacency_station.json",
             ],
             "django": true,
             "justMyCode": false

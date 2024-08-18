@@ -887,7 +887,8 @@
         "fields": {
             "code": "R07",
             "name": "東門",
-            "english_name": "Dongmen"
+            "english_name": "Dongmen",
+            "destinations": [98, 100, 73]
         }
     },
     {

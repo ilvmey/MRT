@@ -7,13 +7,12 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mrt.settings')
 # Setup Django
 django.setup()
 # Import models after Django setup
-from mrt_app.models import AdjacencyStation, Station
+from mrt_app.models import Station
 # Query objects
 stations = Station.objects.all()
 print(len(stations))
 
 station = Station.objects.get(code='R07')
-origin_stations = station.origin_stations.all()
 
-for origin_station in origin_stations:
-    print(origin_station.destination_station.code)
+for destination in station.destinations.all():
+    print(destination.code)

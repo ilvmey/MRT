@@ -3,9 +3,2352 @@
         "model": "mrt_app.adjacencystation",
         "pk": 1,
         "fields": {
+            "origin_station": 24,
+            "destination_station": 25
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 2,
+        "fields": {
+            "origin_station": 25,
+            "destination_station": 24
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 3,
+        "fields": {
+            "origin_station": 25,
+            "destination_station": 26
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 4,
+        "fields": {
+            "origin_station": 26,
+            "destination_station": 25
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 5,
+        "fields": {
+            "origin_station": 26,
+            "destination_station": 27
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 6,
+        "fields": {
+            "origin_station": 27,
+            "destination_station": 26
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 7,
+        "fields": {
+            "origin_station": 27,
+            "destination_station": 28
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 8,
+        "fields": {
+            "origin_station": 28,
+            "destination_station": 27
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 9,
+        "fields": {
+            "origin_station": 28,
+            "destination_station": 29
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 10,
+        "fields": {
+            "origin_station": 29,
+            "destination_station": 28
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 11,
+        "fields": {
+            "origin_station": 29,
+            "destination_station": 30
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 12,
+        "fields": {
+            "origin_station": 30,
+            "destination_station": 29
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 13,
+        "fields": {
+            "origin_station": 30,
+            "destination_station": 31
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 14,
+        "fields": {
+            "origin_station": 31,
+            "destination_station": 30
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 15,
+        "fields": {
+            "origin_station": 31,
+            "destination_station": 32
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 16,
+        "fields": {
+            "origin_station": 32,
+            "destination_station": 31
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 17,
+        "fields": {
+            "origin_station": 32,
+            "destination_station": 33
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 18,
+        "fields": {
+            "origin_station": 32,
+            "destination_station": 97
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 19,
+        "fields": {
+            "origin_station": 33,
+            "destination_station": 32
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 20,
+        "fields": {
+            "origin_station": 33,
+            "destination_station": 34
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 21,
+        "fields": {
+            "origin_station": 33,
+            "destination_station": 15
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 22,
+        "fields": {
+            "origin_station": 34,
+            "destination_station": 33
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 23,
+        "fields": {
+            "origin_station": 34,
+            "destination_station": 35
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 24,
+        "fields": {
+            "origin_station": 34,
+            "destination_station": 63
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 25,
+        "fields": {
+            "origin_station": 35,
+            "destination_station": 34
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 26,
+        "fields": {
+            "origin_station": 35,
+            "destination_station": 36
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 27,
+        "fields": {
+            "origin_station": 36,
+            "destination_station": 35
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 28,
+        "fields": {
+            "origin_station": 36,
+            "destination_station": 37
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 29,
+        "fields": {
+            "origin_station": 37,
+            "destination_station": 36
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 30,
+        "fields": {
+            "origin_station": 37,
+            "destination_station": 38
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 31,
+        "fields": {
+            "origin_station": 38,
+            "destination_station": 37
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 32,
+        "fields": {
+            "origin_station": 38,
+            "destination_station": 39
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 33,
+        "fields": {
+            "origin_station": 39,
+            "destination_station": 38
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 34,
+        "fields": {
+            "origin_station": 39,
+            "destination_station": 40
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 35,
+        "fields": {
+            "origin_station": 40,
+            "destination_station": 39
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 36,
+        "fields": {
+            "origin_station": 40,
+            "destination_station": 41
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 37,
+        "fields": {
+            "origin_station": 41,
+            "destination_station": 40
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 38,
+        "fields": {
+            "origin_station": 41,
+            "destination_station": 42
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 39,
+        "fields": {
+            "origin_station": 42,
+            "destination_station": 41
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 40,
+        "fields": {
+            "origin_station": 42,
+            "destination_station": 43
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 41,
+        "fields": {
+            "origin_station": 43,
+            "destination_station": 42
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 42,
+        "fields": {
+            "origin_station": 43,
+            "destination_station": 44
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 43,
+        "fields": {
+            "origin_station": 44,
+            "destination_station": 43
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 44,
+        "fields": {
+            "origin_station": 44,
+            "destination_station": 45
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 45,
+        "fields": {
+            "origin_station": 45,
+            "destination_station": 44
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 46,
+        "fields": {
+            "origin_station": 45,
+            "destination_station": 46
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 47,
+        "fields": {
+            "origin_station": 46,
+            "destination_station": 45
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 48,
+        "fields": {
+            "origin_station": 46,
+            "destination_station": 47
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 49,
+        "fields": {
+            "origin_station": 47,
+            "destination_station": 46
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 50,
+        "fields": {
+            "origin_station": 47,
+            "destination_station": 23
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 51,
+        "fields": {
+            "origin_station": 48,
+            "destination_station": 49
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 52,
+        "fields": {
+            "origin_station": 49,
+            "destination_station": 48
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 53,
+        "fields": {
+            "origin_station": 49,
+            "destination_station": 50
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 54,
+        "fields": {
+            "origin_station": 50,
+            "destination_station": 49
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 55,
+        "fields": {
+            "origin_station": 50,
+            "destination_station": 51
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 56,
+        "fields": {
+            "origin_station": 50,
+            "destination_station": 67
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 57,
+        "fields": {
+            "origin_station": 51,
+            "destination_station": 50
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 58,
+        "fields": {
+            "origin_station": 51,
+            "destination_station": 52
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 59,
+        "fields": {
+            "origin_station": 51,
+            "destination_station": 122
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 60,
+        "fields": {
+            "origin_station": 52,
+            "destination_station": 51
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 61,
+        "fields": {
+            "origin_station": 52,
+            "destination_station": 53
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 62,
+        "fields": {
+            "origin_station": 53,
+            "destination_station": 52
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 63,
+        "fields": {
+            "origin_station": 53,
+            "destination_station": 54
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 64,
+        "fields": {
+            "origin_station": 54,
+            "destination_station": 53
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 65,
+        "fields": {
+            "origin_station": 54,
+            "destination_station": 55
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 66,
+        "fields": {
+            "origin_station": 55,
+            "destination_station": 54
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 67,
+        "fields": {
+            "origin_station": 55,
+            "destination_station": 56
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 68,
+        "fields": {
+            "origin_station": 56,
+            "destination_station": 55
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 69,
+        "fields": {
+            "origin_station": 56,
+            "destination_station": 57
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 70,
+        "fields": {
+            "origin_station": 56,
+            "destination_station": 72
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 71,
+        "fields": {
+            "origin_station": 57,
+            "destination_station": 56
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 72,
+        "fields": {
+            "origin_station": 57,
+            "destination_station": 58
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 73,
+        "fields": {
+            "origin_station": 57,
+            "destination_station": 100
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 74,
+        "fields": {
+            "origin_station": 58,
+            "destination_station": 57
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 75,
+        "fields": {
+            "origin_station": 58,
+            "destination_station": 59
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 76,
+        "fields": {
+            "origin_station": 59,
+            "destination_station": 58
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 77,
+        "fields": {
+            "origin_station": 59,
+            "destination_station": 60
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 78,
+        "fields": {
+            "origin_station": 59,
+            "destination_station": 11
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 79,
+        "fields": {
+            "origin_station": 60,
+            "destination_station": 59
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 80,
+        "fields": {
+            "origin_station": 60,
+            "destination_station": 61
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 81,
+        "fields": {
+            "origin_station": 61,
+            "destination_station": 60
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 82,
+        "fields": {
+            "origin_station": 61,
+            "destination_station": 62
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 83,
+        "fields": {
+            "origin_station": 61,
+            "destination_station": 103
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 84,
+        "fields": {
+            "origin_station": 62,
+            "destination_station": 61
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 85,
+        "fields": {
+            "origin_station": 62,
+            "destination_station": 63
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 86,
+        "fields": {
+            "origin_station": 62,
+            "destination_station": 75
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 87,
+        "fields": {
+            "origin_station": 63,
+            "destination_station": 62
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 88,
+        "fields": {
+            "origin_station": 63,
+            "destination_station": 64
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 89,
+        "fields": {
+            "origin_station": 63,
+            "destination_station": 34
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 90,
+        "fields": {
+            "origin_station": 64,
+            "destination_station": 63
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 91,
+        "fields": {
+            "origin_station": 64,
+            "destination_station": 65
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 92,
+        "fields": {
+            "origin_station": 65,
+            "destination_station": 64
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 93,
+        "fields": {
+            "origin_station": 65,
+            "destination_station": 66
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 94,
+        "fields": {
+            "origin_station": 66,
+            "destination_station": 65
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 95,
+        "fields": {
+            "origin_station": 122,
+            "destination_station": 51
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 96,
+        "fields": {
+            "origin_station": 122,
+            "destination_station": 123
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 97,
+        "fields": {
+            "origin_station": 123,
+            "destination_station": 122
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 98,
+        "fields": {
+            "origin_station": 123,
+            "destination_station": 124
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 99,
+        "fields": {
+            "origin_station": 124,
+            "destination_station": 123
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 100,
+        "fields": {
+            "origin_station": 124,
+            "destination_station": 125
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 101,
+        "fields": {
+            "origin_station": 125,
+            "destination_station": 124
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 102,
+        "fields": {
+            "origin_station": 125,
+            "destination_station": 126
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 103,
+        "fields": {
+            "origin_station": 126,
+            "destination_station": 125
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 104,
+        "fields": {
+            "origin_station": 126,
+            "destination_station": 127
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 105,
+        "fields": {
+            "origin_station": 126,
+            "destination_station": 69
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 106,
+        "fields": {
+            "origin_station": 127,
+            "destination_station": 126
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 107,
+        "fields": {
+            "origin_station": 127,
+            "destination_station": 128
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 108,
+        "fields": {
+            "origin_station": 128,
+            "destination_station": 127
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 109,
+        "fields": {
+            "origin_station": 128,
+            "destination_station": 129
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 110,
+        "fields": {
+            "origin_station": 129,
+            "destination_station": 128
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 111,
+        "fields": {
+            "origin_station": 129,
+            "destination_station": 130
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 112,
+        "fields": {
+            "origin_station": 130,
+            "destination_station": 129
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 113,
+        "fields": {
+            "origin_station": 130,
+            "destination_station": 131
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 114,
+        "fields": {
+            "origin_station": 131,
+            "destination_station": 130
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 115,
+        "fields": {
+            "origin_station": 131,
+            "destination_station": 132
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 116,
+        "fields": {
+            "origin_station": 131,
+            "destination_station": 7
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 117,
+        "fields": {
+            "origin_station": 132,
+            "destination_station": 131
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 118,
+        "fields": {
+            "origin_station": 132,
+            "destination_station": 133
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 119,
+        "fields": {
+            "origin_station": 132,
+            "destination_station": 8
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 120,
+        "fields": {
+            "origin_station": 133,
+            "destination_station": 132
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 121,
+        "fields": {
+            "origin_station": 133,
+            "destination_station": 134
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 122,
+        "fields": {
+            "origin_station": 133,
+            "destination_station": 84
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 123,
+        "fields": {
+            "origin_station": 134,
+            "destination_station": 133
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 124,
+        "fields": {
+            "origin_station": 134,
+            "destination_station": 135
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 125,
+        "fields": {
+            "origin_station": 135,
+            "destination_station": 134
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 126,
+        "fields": {
+            "origin_station": 68,
+            "destination_station": 69
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 127,
+        "fields": {
+            "origin_station": 69,
+            "destination_station": 68
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 128,
+        "fields": {
+            "origin_station": 69,
+            "destination_station": 70
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 129,
+        "fields": {
+            "origin_station": 69,
+            "destination_station": 126
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 130,
+        "fields": {
+            "origin_station": 70,
+            "destination_station": 69
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 131,
+        "fields": {
+            "origin_station": 70,
+            "destination_station": 71
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 132,
+        "fields": {
+            "origin_station": 71,
+            "destination_station": 70
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 133,
+        "fields": {
+            "origin_station": 71,
+            "destination_station": 72
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 134,
+        "fields": {
+            "origin_station": 72,
+            "destination_station": 71
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 135,
+        "fields": {
+            "origin_station": 72,
+            "destination_station": 73
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 136,
+        "fields": {
+            "origin_station": 72,
+            "destination_station": 56
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 137,
+        "fields": {
+            "origin_station": 73,
+            "destination_station": 72
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 138,
+        "fields": {
+            "origin_station": 73,
+            "destination_station": 74
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 139,
+        "fields": {
+            "origin_station": 73,
+            "destination_station": 99
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 140,
+        "fields": {
+            "origin_station": 74,
+            "destination_station": 73
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 141,
+        "fields": {
+            "origin_station": 74,
+            "destination_station": 75
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 142,
+        "fields": {
+            "origin_station": 74,
+            "destination_station": 14
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 143,
+        "fields": {
+            "origin_station": 75,
+            "destination_station": 74
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 144,
+        "fields": {
+            "origin_station": 75,
+            "destination_station": 76
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 145,
+        "fields": {
+            "origin_station": 75,
+            "destination_station": 62
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 146,
+        "fields": {
+            "origin_station": 76,
+            "destination_station": 75
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 147,
+        "fields": {
+            "origin_station": 76,
+            "destination_station": 77
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 148,
+        "fields": {
+            "origin_station": 77,
+            "destination_station": 76
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 149,
+        "fields": {
+            "origin_station": 77,
+            "destination_station": 78
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 150,
+        "fields": {
+            "origin_station": 78,
+            "destination_station": 77
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 151,
+        "fields": {
+            "origin_station": 78,
+            "destination_station": 79
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 152,
+        "fields": {
+            "origin_station": 78,
+            "destination_station": 105
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 153,
+        "fields": {
+            "origin_station": 79,
+            "destination_station": 78
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 154,
+        "fields": {
+            "origin_station": 79,
+            "destination_station": 80
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 155,
+        "fields": {
+            "origin_station": 79,
+            "destination_station": 72
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 156,
+        "fields": {
+            "origin_station": 80,
+            "destination_station": 79
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 157,
+        "fields": {
+            "origin_station": 80,
+            "destination_station": 81
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 158,
+        "fields": {
+            "origin_station": 81,
+            "destination_station": 80
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 159,
+        "fields": {
+            "origin_station": 81,
+            "destination_station": 82
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 160,
+        "fields": {
+            "origin_station": 82,
+            "destination_station": 81
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 161,
+        "fields": {
+            "origin_station": 82,
+            "destination_station": 83
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 162,
+        "fields": {
+            "origin_station": 83,
+            "destination_station": 82
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 163,
+        "fields": {
+            "origin_station": 83,
+            "destination_station": 84
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 164,
+        "fields": {
+            "origin_station": 84,
+            "destination_station": 83
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 165,
+        "fields": {
+            "origin_station": 84,
+            "destination_station": 85
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 166,
+        "fields": {
+            "origin_station": 84,
+            "destination_station": 133
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 167,
+        "fields": {
+            "origin_station": 85,
+            "destination_station": 84
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 168,
+        "fields": {
+            "origin_station": 85,
+            "destination_station": 86
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 169,
+        "fields": {
+            "origin_station": 86,
+            "destination_station": 85
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 170,
+        "fields": {
+            "origin_station": 86,
+            "destination_station": 87
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 171,
+        "fields": {
+            "origin_station": 87,
+            "destination_station": 86
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 172,
+        "fields": {
+            "origin_station": 87,
+            "destination_station": 88
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 173,
+        "fields": {
+            "origin_station": 88,
+            "destination_station": 87
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 174,
+        "fields": {
+            "origin_station": 89,
+            "destination_station": 79
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 175,
+        "fields": {
+            "origin_station": 89,
+            "destination_station": 90
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 176,
+        "fields": {
+            "origin_station": 90,
+            "destination_station": 89
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 177,
+        "fields": {
+            "origin_station": 90,
+            "destination_station": 91
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 178,
+        "fields": {
+            "origin_station": 91,
+            "destination_station": 90
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 179,
+        "fields": {
+            "origin_station": 91,
+            "destination_station": 92
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 180,
+        "fields": {
+            "origin_station": 92,
+            "destination_station": 91
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 181,
+        "fields": {
+            "origin_station": 92,
+            "destination_station": 93
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 182,
+        "fields": {
+            "origin_station": 93,
+            "destination_station": 92
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 183,
+        "fields": {
+            "origin_station": 1,
+            "destination_station": 2
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 184,
+        "fields": {
+            "origin_station": 2,
+            "destination_station": 1
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 185,
+        "fields": {
+            "origin_station": 2,
+            "destination_station": 3
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 186,
+        "fields": {
+            "origin_station": 3,
+            "destination_station": 2
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 187,
+        "fields": {
+            "origin_station": 3,
+            "destination_station": 4
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 188,
+        "fields": {
+            "origin_station": 4,
+            "destination_station": 3
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 189,
+        "fields": {
+            "origin_station": 4,
+            "destination_station": 5
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 190,
+        "fields": {
+            "origin_station": 5,
+            "destination_station": 4
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 191,
+        "fields": {
+            "origin_station": 5,
+            "destination_station": 6
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 192,
+        "fields": {
+            "origin_station": 6,
+            "destination_station": 5
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 193,
+        "fields": {
+            "origin_station": 6,
+            "destination_station": 7
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 194,
+        "fields": {
+            "origin_station": 7,
+            "destination_station": 6
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 195,
+        "fields": {
+            "origin_station": 7,
+            "destination_station": 8
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 196,
+        "fields": {
+            "origin_station": 7,
+            "destination_station": 131
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 197,
+        "fields": {
+            "origin_station": 8,
+            "destination_station": 7
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 198,
+        "fields": {
+            "origin_station": 8,
+            "destination_station": 9
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 199,
+        "fields": {
+            "origin_station": 8,
+            "destination_station": 132
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 200,
+        "fields": {
+            "origin_station": 9,
+            "destination_station": 8
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 201,
+        "fields": {
+            "origin_station": 9,
+            "destination_station": 10
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 202,
+        "fields": {
+            "origin_station": 10,
+            "destination_station": 9
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 203,
+        "fields": {
+            "origin_station": 10,
+            "destination_station": 11
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 204,
+        "fields": {
+            "origin_station": 11,
+            "destination_station": 10
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 205,
+        "fields": {
+            "origin_station": 11,
+            "destination_station": 12
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 206,
+        "fields": {
+            "origin_station": 11,
+            "destination_station": 59
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 207,
+        "fields": {
+            "origin_station": 12,
+            "destination_station": 11
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 208,
+        "fields": {
+            "origin_station": 12,
+            "destination_station": 13
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 209,
+        "fields": {
+            "origin_station": 12,
+            "destination_station": 102
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 210,
+        "fields": {
+            "origin_station": 13,
+            "destination_station": 12
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 211,
+        "fields": {
+            "origin_station": 13,
+            "destination_station": 14
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 212,
+        "fields": {
+            "origin_station": 14,
+            "destination_station": 13
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 213,
+        "fields": {
+            "origin_station": 14,
+            "destination_station": 15
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 214,
+        "fields": {
+            "origin_station": 14,
+            "destination_station": 74
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 215,
+        "fields": {
+            "origin_station": 15,
+            "destination_station": 14
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 216,
+        "fields": {
+            "origin_station": 15,
+            "destination_station": 16
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 217,
+        "fields": {
+            "origin_station": 15,
+            "destination_station": 33
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 218,
+        "fields": {
+            "origin_station": 16,
+            "destination_station": 15
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 219,
+        "fields": {
+            "origin_station": 16,
+            "destination_station": 17
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 220,
+        "fields": {
+            "origin_station": 17,
+            "destination_station": 16
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 221,
+        "fields": {
+            "origin_station": 17,
+            "destination_station": 18
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 222,
+        "fields": {
+            "origin_station": 18,
+            "destination_station": 17
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 223,
+        "fields": {
+            "origin_station": 18,
+            "destination_station": 19
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 224,
+        "fields": {
+            "origin_station": 19,
+            "destination_station": 18
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 225,
+        "fields": {
+            "origin_station": 19,
+            "destination_station": 20
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 226,
+        "fields": {
+            "origin_station": 20,
+            "destination_station": 19
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 227,
+        "fields": {
+            "origin_station": 20,
+            "destination_station": 21
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 228,
+        "fields": {
+            "origin_station": 21,
+            "destination_station": 20
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 229,
+        "fields": {
+            "origin_station": 21,
+            "destination_station": 22
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 230,
+        "fields": {
+            "origin_station": 22,
+            "destination_station": 21
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 231,
+        "fields": {
+            "origin_station": 22,
+            "destination_station": 23
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 232,
+        "fields": {
+            "origin_station": 23,
+            "destination_station": 22
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 233,
+        "fields": {
+            "origin_station": 23,
+            "destination_station": 47
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 234,
+        "fields": {
+            "origin_station": 94,
+            "destination_station": 95
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 235,
+        "fields": {
+            "origin_station": 95,
+            "destination_station": 94
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 236,
+        "fields": {
+            "origin_station": 95,
+            "destination_station": 96
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 237,
+        "fields": {
+            "origin_station": 96,
+            "destination_station": 95
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 238,
+        "fields": {
+            "origin_station": 96,
+            "destination_station": 97
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 239,
+        "fields": {
+            "origin_station": 97,
+            "destination_station": 96
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 240,
+        "fields": {
+            "origin_station": 97,
+            "destination_station": 98
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 241,
+        "fields": {
+            "origin_station": 97,
+            "destination_station": 32
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 242,
+        "fields": {
             "origin_station": 98,
-            "destination_station": 97,
-            "distance": 1
+            "destination_station": 97
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 243,
+        "fields": {
+            "origin_station": 98,
+            "destination_station": 99
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 244,
+        "fields": {
+            "origin_station": 99,
+            "destination_station": 98
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 245,
+        "fields": {
+            "origin_station": 99,
+            "destination_station": 100
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 246,
+        "fields": {
+            "origin_station": 99,
+            "destination_station": 73
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 247,
+        "fields": {
+            "origin_station": 100,
+            "destination_station": 99
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 248,
+        "fields": {
+            "origin_station": 100,
+            "destination_station": 101
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 249,
+        "fields": {
+            "origin_station": 100,
+            "destination_station": 57
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 250,
+        "fields": {
+            "origin_station": 101,
+            "destination_station": 100
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 251,
+        "fields": {
+            "origin_station": 101,
+            "destination_station": 102
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 252,
+        "fields": {
+            "origin_station": 102,
+            "destination_station": 101
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 253,
+        "fields": {
+            "origin_station": 102,
+            "destination_station": 103
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 254,
+        "fields": {
+            "origin_station": 102,
+            "destination_station": 12
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 255,
+        "fields": {
+            "origin_station": 103,
+            "destination_station": 102
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 256,
+        "fields": {
+            "origin_station": 103,
+            "destination_station": 104
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 257,
+        "fields": {
+            "origin_station": 103,
+            "destination_station": 61
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 258,
+        "fields": {
+            "origin_station": 104,
+            "destination_station": 103
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 259,
+        "fields": {
+            "origin_station": 104,
+            "destination_station": 105
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 260,
+        "fields": {
+            "origin_station": 105,
+            "destination_station": 104
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 261,
+        "fields": {
+            "origin_station": 105,
+            "destination_station": 106
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 262,
+        "fields": {
+            "origin_station": 105,
+            "destination_station": 78
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 263,
+        "fields": {
+            "origin_station": 106,
+            "destination_station": 105
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 264,
+        "fields": {
+            "origin_station": 106,
+            "destination_station": 107
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 265,
+        "fields": {
+            "origin_station": 107,
+            "destination_station": 106
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 266,
+        "fields": {
+            "origin_station": 107,
+            "destination_station": 108
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 267,
+        "fields": {
+            "origin_station": 108,
+            "destination_station": 107
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 268,
+        "fields": {
+            "origin_station": 108,
+            "destination_station": 109
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 269,
+        "fields": {
+            "origin_station": 109,
+            "destination_station": 108
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 270,
+        "fields": {
+            "origin_station": 109,
+            "destination_station": 110
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 271,
+        "fields": {
+            "origin_station": 110,
+            "destination_station": 109
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 272,
+        "fields": {
+            "origin_station": 110,
+            "destination_station": 111
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 273,
+        "fields": {
+            "origin_station": 111,
+            "destination_station": 110
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 274,
+        "fields": {
+            "origin_station": 111,
+            "destination_station": 112
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 275,
+        "fields": {
+            "origin_station": 112,
+            "destination_station": 111
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 276,
+        "fields": {
+            "origin_station": 112,
+            "destination_station": 113
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 277,
+        "fields": {
+            "origin_station": 113,
+            "destination_station": 112
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 278,
+        "fields": {
+            "origin_station": 113,
+            "destination_station": 114
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 279,
+        "fields": {
+            "origin_station": 114,
+            "destination_station": 113
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 280,
+        "fields": {
+            "origin_station": 114,
+            "destination_station": 115
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 281,
+        "fields": {
+            "origin_station": 114,
+            "destination_station": 121
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 282,
+        "fields": {
+            "origin_station": 115,
+            "destination_station": 114
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 283,
+        "fields": {
+            "origin_station": 115,
+            "destination_station": 116
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 284,
+        "fields": {
+            "origin_station": 116,
+            "destination_station": 115
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 285,
+        "fields": {
+            "origin_station": 116,
+            "destination_station": 117
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 286,
+        "fields": {
+            "origin_station": 117,
+            "destination_station": 116
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 287,
+        "fields": {
+            "origin_station": 117,
+            "destination_station": 118
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 288,
+        "fields": {
+            "origin_station": 118,
+            "destination_station": 117
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 289,
+        "fields": {
+            "origin_station": 118,
+            "destination_station": 119
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 290,
+        "fields": {
+            "origin_station": 119,
+            "destination_station": 118
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 291,
+        "fields": {
+            "origin_station": 119,
+            "destination_station": 120
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 292,
+        "fields": {
+            "origin_station": 120,
+            "destination_station": 119
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 293,
+        "fields": {
+            "origin_station": 67,
+            "destination_station": 50
+        }
+    },
+    {
+        "model": "mrt_app.adjacencystation",
+        "pk": 294,
+        "fields": {
+            "origin_station": 121,
+            "destination_station": 114
         }
     }
 ]

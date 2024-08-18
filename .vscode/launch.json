@@ -6,13 +6,13 @@
     "configurations": [
         {
             "name": "Python: 目前檔案",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "env": {
                 "PYTHONPATH": "${workspaceRoot}",
-                "DJANGO_SETTINGS_MODULE": "stock.settings",
+                "DJANGO_SETTINGS_MODULE": "mrt.settings",
             },
             "justMyCode": false
         },

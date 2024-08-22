@@ -5,7 +5,10 @@
         "fields": {
             "code": "BL01",
             "name": "頂埔",
-            "english_name": "Dingpu"
+            "english_name": "Dingpu",
+            "destinations": [
+                2
+            ]
         }
     },
     {
@@ -14,7 +17,11 @@
         "fields": {
             "code": "BL02",
             "name": "永寧",
-            "english_name": "Yongning"
+            "english_name": "Yongning",
+            "destinations": [
+                1,
+                3
+            ]
         }
     },
     {
@@ -23,7 +30,11 @@
         "fields": {
             "code": "BL03",
             "name": "土城",
-            "english_name": "Tucheng"
+            "english_name": "Tucheng",
+            "destinations": [
+                2,
+                4
+            ]
         }
     },
     {
@@ -32,7 +43,11 @@
         "fields": {
             "code": "BL04",
             "name": "海山",
-            "english_name": "Haishan"
+            "english_name": "Haishan",
+            "destinations": [
+                3,
+                5
+            ]
         }
     },
     {
@@ -41,7 +56,11 @@
         "fields": {
             "code": "BL05",
             "name": "亞東醫院",
-            "english_name": "Far Eastern Hospital"
+            "english_name": "Far Eastern Hospital",
+            "destinations": [
+                4,
+                6
+            ]
         }
     },
     {
@@ -50,7 +69,11 @@
         "fields": {
             "code": "BL06",
             "name": "府中",
-            "english_name": "Fuzhong"
+            "english_name": "Fuzhong",
+            "destinations": [
+                5,
+                7
+            ]
         }
     },
     {
@@ -59,7 +82,12 @@
         "fields": {
             "code": "BL07",
             "name": "板橋",
-            "english_name": "Banqiao"
+            "english_name": "Banqiao",
+            "destinations": [
+                6,
+                8,
+                131
+            ]
         }
     },
     {
@@ -68,7 +96,12 @@
         "fields": {
             "code": "BL08",
             "name": "新埔",
-            "english_name": "Xinpu"
+            "english_name": "Xinpu",
+            "destinations": [
+                7,
+                9,
+                132
+            ]
         }
     },
     {
@@ -77,7 +110,11 @@
         "fields": {
             "code": "BL09",
             "name": "江子翠",
-            "english_name": "Jiangzicui"
+            "english_name": "Jiangzicui",
+            "destinations": [
+                8,
+                10
+            ]
         }
     },
     {
@@ -86,7 +123,11 @@
         "fields": {
             "code": "BL10",
             "name": "龍山寺",
-            "english_name": "Longshan Temple"
+            "english_name": "Longshan Temple",
+            "destinations": [
+                9,
+                11
+            ]
         }
     },
     {
@@ -95,7 +136,12 @@
         "fields": {
             "code": "BL11",
             "name": "西門",
-            "english_name": "Ximen"
+            "english_name": "Ximen",
+            "destinations": [
+                10,
+                12,
+                59
+            ]
         }
     },
     {
@@ -104,7 +150,12 @@
         "fields": {
             "code": "BL12",
             "name": "台北車站",
-            "english_name": "Taipei Main Station"
+            "english_name": "Taipei Main Station",
+            "destinations": [
+                11,
+                13,
+                102
+            ]
         }
     },
     {
@@ -113,7 +164,11 @@
         "fields": {
             "code": "BL13",
             "name": "善導寺",
-            "english_name": "Shandao Temple"
+            "english_name": "Shandao Temple",
+            "destinations": [
+                12,
+                14
+            ]
         }
     },
     {
@@ -122,7 +177,12 @@
         "fields": {
             "code": "BL14",
             "name": "忠孝新生",
-            "english_name": "Zhongxiao Xinsheng"
+            "english_name": "Zhongxiao Xinsheng",
+            "destinations": [
+                13,
+                15,
+                74
+            ]
         }
     },
     {
@@ -131,7 +191,12 @@
         "fields": {
             "code": "BL15",
             "name": "忠孝復興",
-            "english_name": "Zhongxiao Fuxing"
+            "english_name": "Zhongxiao Fuxing",
+            "destinations": [
+                14,
+                16,
+                33
+            ]
         }
     },
     {
@@ -140,7 +205,11 @@
         "fields": {
             "code": "BL16",
             "name": "忠孝敦化",
-            "english_name": "Zhongxiao Dunhua"
+            "english_name": "Zhongxiao Dunhua",
+            "destinations": [
+                15,
+                17
+            ]
         }
     },
     {
@@ -149,7 +218,11 @@
         "fields": {
             "code": "BL17",
             "name": "國父紀念館",
-            "english_name": "Sun Yat-Sen Memorial Hall"
+            "english_name": "Sun Yat-Sen Memorial Hall",
+            "destinations": [
+                16,
+                18
+            ]
         }
     },
     {
@@ -158,7 +231,11 @@
         "fields": {
             "code": "BL18",
             "name": "市政府",
-            "english_name": "Taipei City Hall"
+            "english_name": "Taipei City Hall",
+            "destinations": [
+                17,
+                19
+            ]
         }
     },
     {
@@ -167,7 +244,11 @@
         "fields": {
             "code": "BL19",
             "name": "永春",
-            "english_name": "Yongchun"
+            "english_name": "Yongchun",
+            "destinations": [
+                18,
+                20
+            ]
         }
     },
     {
@@ -176,7 +257,11 @@
         "fields": {
             "code": "BL20",
             "name": "後山埤",
-            "english_name": "Houshanpi"
+            "english_name": "Houshanpi",
+            "destinations": [
+                19,
+                21
+            ]
         }
     },
     {
@@ -185,7 +270,11 @@
         "fields": {
             "code": "BL21",
             "name": "昆陽",
-            "english_name": "Kunyang"
+            "english_name": "Kunyang",
+            "destinations": [
+                20,
+                22
+            ]
         }
     },
     {
@@ -194,7 +283,11 @@
         "fields": {
             "code": "BL22",
             "name": "南港",
-            "english_name": "Nangang"
+            "english_name": "Nangang",
+            "destinations": [
+                21,
+                23
+            ]
         }
     },
     {
@@ -203,7 +296,11 @@
         "fields": {
             "code": "BL23",
             "name": "南港展覽館",
-            "english_name": "Taipei Nangang Exhibition Center"
+            "english_name": "Taipei Nangang Exhibition Center",
+            "destinations": [
+                22,
+                47
+            ]
         }
     },
     {
@@ -212,7 +309,10 @@
         "fields": {
             "code": "BR01",
             "name": "動物園",
-            "english_name": "Taipei Zoo"
+            "english_name": "Taipei Zoo",
+            "destinations": [
+                25
+            ]
         }
     },
     {
@@ -221,7 +321,11 @@
         "fields": {
             "code": "BR02",
             "name": "木柵",
-            "english_name": "Muzha"
+            "english_name": "Muzha",
+            "destinations": [
+                24,
+                26
+            ]
         }
     },
     {
@@ -230,7 +334,11 @@
         "fields": {
             "code": "BR03",
             "name": "萬芳社區",
-            "english_name": "Wanfang Community"
+            "english_name": "Wanfang Community",
+            "destinations": [
+                25,
+                27
+            ]
         }
     },
     {
@@ -239,7 +347,11 @@
         "fields": {
             "code": "BR04",
             "name": "萬芳醫院",
-            "english_name": "Wanfang Hospital"
+            "english_name": "Wanfang Hospital",
+            "destinations": [
+                26,
+                28
+            ]
         }
     },
     {
@@ -248,7 +360,11 @@
         "fields": {
             "code": "BR05",
             "name": "辛亥",
-            "english_name": "Xinhai"
+            "english_name": "Xinhai",
+            "destinations": [
+                27,
+                29
+            ]
         }
     },
     {
@@ -257,7 +373,11 @@
         "fields": {
             "code": "BR06",
             "name": "麟光",
-            "english_name": "Linguang"
+            "english_name": "Linguang",
+            "destinations": [
+                28,
+                30
+            ]
         }
     },
     {
@@ -266,7 +386,11 @@
         "fields": {
             "code": "BR07",
             "name": "六張犁",
-            "english_name": "Liuzhangli"
+            "english_name": "Liuzhangli",
+            "destinations": [
+                29,
+                31
+            ]
         }
     },
     {
@@ -275,7 +399,11 @@
         "fields": {
             "code": "BR08",
             "name": "科技大樓",
-            "english_name": "Technology Building"
+            "english_name": "Technology Building",
+            "destinations": [
+                30,
+                32
+            ]
         }
     },
     {
@@ -284,7 +412,12 @@
         "fields": {
             "code": "BR09",
             "name": "大安",
-            "english_name": "Daan"
+            "english_name": "Daan",
+            "destinations": [
+                31,
+                33,
+                97
+            ]
         }
     },
     {
@@ -293,7 +426,12 @@
         "fields": {
             "code": "BR10",
             "name": "忠孝復興",
-            "english_name": "Zhongxiao Fuxing"
+            "english_name": "Zhongxiao Fuxing",
+            "destinations": [
+                32,
+                34,
+                15
+            ]
         }
     },
     {
@@ -302,7 +440,12 @@
         "fields": {
             "code": "BR11",
             "name": "南京復興",
-            "english_name": "Nanjing Fuxing"
+            "english_name": "Nanjing Fuxing",
+            "destinations": [
+                33,
+                35,
+                63
+            ]
         }
     },
     {
@@ -311,7 +454,11 @@
         "fields": {
             "code": "BR12",
             "name": "中山國中",
-            "english_name": "Zhongshan Junior High School"
+            "english_name": "Zhongshan Junior High School",
+            "destinations": [
+                34,
+                36
+            ]
         }
     },
     {
@@ -320,7 +467,11 @@
         "fields": {
             "code": "BR13",
             "name": "松山機場",
-            "english_name": "Songshan Airport"
+            "english_name": "Songshan Airport",
+            "destinations": [
+                35,
+                37
+            ]
         }
     },
     {
@@ -329,7 +480,11 @@
         "fields": {
             "code": "BR14",
             "name": "大直",
-            "english_name": "Dazhi"
+            "english_name": "Dazhi",
+            "destinations": [
+                36,
+                38
+            ]
         }
     },
     {
@@ -338,7 +493,11 @@
         "fields": {
             "code": "BR15",
             "name": "劍南路",
-            "english_name": "Jiannan Rd."
+            "english_name": "Jiannan Rd.",
+            "destinations": [
+                37,
+                39
+            ]
         }
     },
     {
@@ -347,7 +506,11 @@
         "fields": {
             "code": "BR16",
             "name": "西湖",
-            "english_name": "Xihu"
+            "english_name": "Xihu",
+            "destinations": [
+                38,
+                40
+            ]
         }
     },
     {
@@ -356,7 +519,11 @@
         "fields": {
             "code": "BR17",
             "name": "港墘",
-            "english_name": "Gangqian"
+            "english_name": "Gangqian",
+            "destinations": [
+                39,
+                41
+            ]
         }
     },
     {
@@ -365,7 +532,11 @@
         "fields": {
             "code": "BR18",
             "name": "文德",
-            "english_name": "Wende"
+            "english_name": "Wende",
+            "destinations": [
+                40,
+                42
+            ]
         }
     },
     {
@@ -374,7 +545,11 @@
         "fields": {
             "code": "BR19",
             "name": "內湖",
-            "english_name": "Neihu"
+            "english_name": "Neihu",
+            "destinations": [
+                41,
+                43
+            ]
         }
     },
     {
@@ -383,7 +558,11 @@
         "fields": {
             "code": "BR20",
             "name": "大湖公園",
-            "english_name": "Dahu Park"
+            "english_name": "Dahu Park",
+            "destinations": [
+                42,
+                44
+            ]
         }
     },
     {
@@ -392,7 +571,11 @@
         "fields": {
             "code": "BR21",
             "name": "葫洲",
-            "english_name": "Huzhou"
+            "english_name": "Huzhou",
+            "destinations": [
+                43,
+                45
+            ]
         }
     },
     {
@@ -401,7 +584,11 @@
         "fields": {
             "code": "BR22",
             "name": "東湖",
-            "english_name": "Donghu"
+            "english_name": "Donghu",
+            "destinations": [
+                44,
+                46
+            ]
         }
     },
     {
@@ -410,7 +597,11 @@
         "fields": {
             "code": "BR23",
             "name": "南港軟體園區",
-            "english_name": "Nangang Software Park"
+            "english_name": "Nangang Software Park",
+            "destinations": [
+                45,
+                47
+            ]
         }
     },
     {
@@ -419,7 +610,11 @@
         "fields": {
             "code": "BR24",
             "name": "南港展覽館",
-            "english_name": "Taipei Nangang Exhibition Center"
+            "english_name": "Taipei Nangang Exhibition Center",
+            "destinations": [
+                46,
+                23
+            ]
         }
     },
     {
@@ -428,7 +623,10 @@
         "fields": {
             "code": "G01",
             "name": "新店",
-            "english_name": "Xindian"
+            "english_name": "Xindian",
+            "destinations": [
+                49
+            ]
         }
     },
     {
@@ -437,7 +635,11 @@
         "fields": {
             "code": "G02",
             "name": "新店區公所",
-            "english_name": "Xindian District Office"
+            "english_name": "Xindian District Office",
+            "destinations": [
+                48,
+                50
+            ]
         }
     },
     {
@@ -446,7 +648,12 @@
         "fields": {
             "code": "G03",
             "name": "七張",
-            "english_name": "Qizhang"
+            "english_name": "Qizhang",
+            "destinations": [
+                49,
+                51,
+                67
+            ]
         }
     },
     {
@@ -455,7 +662,12 @@
         "fields": {
             "code": "G04",
             "name": "大坪林",
-            "english_name": "Dapinglin"
+            "english_name": "Dapinglin",
+            "destinations": [
+                50,
+                52,
+                122
+            ]
         }
     },
     {
@@ -464,7 +676,11 @@
         "fields": {
             "code": "G05",
             "name": "景美",
-            "english_name": "Jingmei"
+            "english_name": "Jingmei",
+            "destinations": [
+                51,
+                53
+            ]
         }
     },
     {
@@ -473,7 +689,11 @@
         "fields": {
             "code": "G06",
             "name": "萬隆",
-            "english_name": "Wanlong"
+            "english_name": "Wanlong",
+            "destinations": [
+                52,
+                54
+            ]
         }
     },
     {
@@ -482,7 +702,11 @@
         "fields": {
             "code": "G07",
             "name": "公館",
-            "english_name": "Gongguan"
+            "english_name": "Gongguan",
+            "destinations": [
+                53,
+                55
+            ]
         }
     },
     {
@@ -491,7 +715,11 @@
         "fields": {
             "code": "G08",
             "name": "台電大樓",
-            "english_name": "Taipower Building"
+            "english_name": "Taipower Building",
+            "destinations": [
+                54,
+                56
+            ]
         }
     },
     {
@@ -500,7 +728,12 @@
         "fields": {
             "code": "G09",
             "name": "古亭",
-            "english_name": "Guting"
+            "english_name": "Guting",
+            "destinations": [
+                55,
+                57,
+                72
+            ]
         }
     },
     {
@@ -509,7 +742,12 @@
         "fields": {
             "code": "G10",
             "name": "中正紀念堂",
-            "english_name": "Chiang Kai-Shek Memorial Hall"
+            "english_name": "Chiang Kai-Shek Memorial Hall",
+            "destinations": [
+                56,
+                58,
+                100
+            ]
         }
     },
     {
@@ -518,7 +756,11 @@
         "fields": {
             "code": "G11",
             "name": "小南門",
-            "english_name": "Xiaonanmen"
+            "english_name": "Xiaonanmen",
+            "destinations": [
+                57,
+                59
+            ]
         }
     },
     {
@@ -527,7 +769,12 @@
         "fields": {
             "code": "G12",
             "name": "西門",
-            "english_name": "Ximen"
+            "english_name": "Ximen",
+            "destinations": [
+                58,
+                60,
+                11
+            ]
         }
     },
     {
@@ -536,7 +783,11 @@
         "fields": {
             "code": "G13",
             "name": "北門",
-            "english_name": "Beimen"
+            "english_name": "Beimen",
+            "destinations": [
+                59,
+                61
+            ]
         }
     },
     {
@@ -545,7 +796,12 @@
         "fields": {
             "code": "G14",
             "name": "中山",
-            "english_name": "Zhongshan"
+            "english_name": "Zhongshan",
+            "destinations": [
+                60,
+                62,
+                103
+            ]
         }
     },
     {
@@ -554,7 +810,12 @@
         "fields": {
             "code": "G15",
             "name": "松江南京",
-            "english_name": "Songjiang Nanjing"
+            "english_name": "Songjiang Nanjing",
+            "destinations": [
+                61,
+                63,
+                75
+            ]
         }
     },
     {
@@ -563,7 +824,12 @@
         "fields": {
             "code": "G16",
             "name": "南京復興",
-            "english_name": "Nanjing Fuxing"
+            "english_name": "Nanjing Fuxing",
+            "destinations": [
+                62,
+                64,
+                34
+            ]
         }
     },
     {
@@ -572,7 +838,11 @@
         "fields": {
             "code": "G17",
             "name": "台北小巨蛋",
-            "english_name": "Taipei Arena"
+            "english_name": "Taipei Arena",
+            "destinations": [
+                63,
+                65
+            ]
         }
     },
     {
@@ -581,7 +851,11 @@
         "fields": {
             "code": "G18",
             "name": "南京三民",
-            "english_name": "Nanjing Sanmin"
+            "english_name": "Nanjing Sanmin",
+            "destinations": [
+                64,
+                66
+            ]
         }
     },
     {
@@ -590,7 +864,10 @@
         "fields": {
             "code": "G19",
             "name": "松山",
-            "english_name": "Songshan"
+            "english_name": "Songshan",
+            "destinations": [
+                65
+            ]
         }
     },
     {
@@ -599,7 +876,10 @@
         "fields": {
             "code": "G03A",
             "name": "小碧潭",
-            "english_name": "Xiaobitan"
+            "english_name": "Xiaobitan",
+            "destinations": [
+                50
+            ]
         }
     },
     {
@@ -608,7 +888,10 @@
         "fields": {
             "code": "O01",
             "name": "南勢角",
-            "english_name": "Nanshijiao"
+            "english_name": "Nanshijiao",
+            "destinations": [
+                69
+            ]
         }
     },
     {
@@ -617,7 +900,12 @@
         "fields": {
             "code": "O02",
             "name": "景安",
-            "english_name": "Jingan"
+            "english_name": "Jingan",
+            "destinations": [
+                68,
+                70,
+                126
+            ]
         }
     },
     {
@@ -626,7 +914,11 @@
         "fields": {
             "code": "O03",
             "name": "永安市場",
-            "english_name": "Yongan Market"
+            "english_name": "Yongan Market",
+            "destinations": [
+                69,
+                71
+            ]
         }
     },
     {
@@ -635,7 +927,11 @@
         "fields": {
             "code": "O04",
             "name": "頂溪",
-            "english_name": "Dingxi"
+            "english_name": "Dingxi",
+            "destinations": [
+                70,
+                72
+            ]
         }
     },
     {
@@ -644,7 +940,12 @@
         "fields": {
             "code": "O05",
             "name": "古亭",
-            "english_name": "Guting"
+            "english_name": "Guting",
+            "destinations": [
+                71,
+                73,
+                56
+            ]
         }
     },
     {
@@ -653,7 +954,12 @@
         "fields": {
             "code": "O06",
             "name": "東門",
-            "english_name": "Dongmen"
+            "english_name": "Dongmen",
+            "destinations": [
+                72,
+                74,
+                99
+            ]
         }
     },
     {
@@ -662,7 +968,12 @@
         "fields": {
             "code": "O07",
             "name": "忠孝新生",
-            "english_name": "Zhongxiao Xinsheng"
+            "english_name": "Zhongxiao Xinsheng",
+            "destinations": [
+                73,
+                75,
+                14
+            ]
         }
     },
     {
@@ -671,7 +982,12 @@
         "fields": {
             "code": "O08",
             "name": "松江南京",
-            "english_name": "Songjiang Nanjing"
+            "english_name": "Songjiang Nanjing",
+            "destinations": [
+                74,
+                76,
+                62
+            ]
         }
     },
     {
@@ -680,7 +996,11 @@
         "fields": {
             "code": "O09",
             "name": "行天宮",
-            "english_name": "Xingtian Temple"
+            "english_name": "Xingtian Temple",
+            "destinations": [
+                75,
+                77
+            ]
         }
     },
     {
@@ -689,7 +1009,11 @@
         "fields": {
             "code": "O10",
             "name": "中山國小",
-            "english_name": "Zhongshan Elementary School"
+            "english_name": "Zhongshan Elementary School",
+            "destinations": [
+                76,
+                78
+            ]
         }
     },
     {
@@ -698,7 +1022,12 @@
         "fields": {
             "code": "O11",
             "name": "民權西路",
-            "english_name": "Minquan W. Rd."
+            "english_name": "Minquan W. Rd.",
+            "destinations": [
+                77,
+                79,
+                105
+            ]
         }
     },
     {
@@ -707,7 +1036,12 @@
         "fields": {
             "code": "O12",
             "name": "大橋頭",
-            "english_name": "Daqiaotou"
+            "english_name": "Daqiaotou",
+            "destinations": [
+                78,
+                80,
+                72
+            ]
         }
     },
     {
@@ -716,7 +1050,11 @@
         "fields": {
             "code": "O13",
             "name": "台北橋",
-            "english_name": "Taipei Bridge"
+            "english_name": "Taipei Bridge",
+            "destinations": [
+                79,
+                81
+            ]
         }
     },
     {
@@ -725,7 +1063,11 @@
         "fields": {
             "code": "O14",
             "name": "菜寮",
-            "english_name": "Cailiao"
+            "english_name": "Cailiao",
+            "destinations": [
+                80,
+                82
+            ]
         }
     },
     {
@@ -734,7 +1076,11 @@
         "fields": {
             "code": "O15",
             "name": "三重",
-            "english_name": "Sanchong"
+            "english_name": "Sanchong",
+            "destinations": [
+                81,
+                83
+            ]
         }
     },
     {
@@ -743,7 +1089,11 @@
         "fields": {
             "code": "O16",
             "name": "先嗇宮",
-            "english_name": "Xianse Temple"
+            "english_name": "Xianse Temple",
+            "destinations": [
+                82,
+                84
+            ]
         }
     },
     {
@@ -752,7 +1102,12 @@
         "fields": {
             "code": "O17",
             "name": "頭前庄",
-            "english_name": "Touqianzhuang"
+            "english_name": "Touqianzhuang",
+            "destinations": [
+                83,
+                85,
+                133
+            ]
         }
     },
     {
@@ -761,7 +1116,11 @@
         "fields": {
             "code": "O18",
             "name": "新莊",
-            "english_name": "Xinzhuang"
+            "english_name": "Xinzhuang",
+            "destinations": [
+                84,
+                86
+            ]
         }
     },
     {
@@ -770,7 +1129,11 @@
         "fields": {
             "code": "O19",
             "name": "輔大",
-            "english_name": "Fu Jen University"
+            "english_name": "Fu Jen University",
+            "destinations": [
+                85,
+                87
+            ]
         }
     },
     {
@@ -779,7 +1142,11 @@
         "fields": {
             "code": "O20",
             "name": "丹鳳",
-            "english_name": "Danfeng"
+            "english_name": "Danfeng",
+            "destinations": [
+                86,
+                88
+            ]
         }
     },
     {
@@ -788,7 +1155,10 @@
         "fields": {
             "code": "O21",
             "name": "迴龍",
-            "english_name": "Huilong"
+            "english_name": "Huilong",
+            "destinations": [
+                87
+            ]
         }
     },
     {
@@ -797,7 +1167,11 @@
         "fields": {
             "code": "O50",
             "name": "三重國小",
-            "english_name": "Sanchong Elementary School"
+            "english_name": "Sanchong Elementary School",
+            "destinations": [
+                79,
+                90
+            ]
         }
     },
     {
@@ -806,7 +1180,11 @@
         "fields": {
             "code": "O51",
             "name": "三和國中",
-            "english_name": "Sanhe Junior High School"
+            "english_name": "Sanhe Junior High School",
+            "destinations": [
+                89,
+                91
+            ]
         }
     },
     {
@@ -815,7 +1193,11 @@
         "fields": {
             "code": "O52",
             "name": "徐匯中學",
-            "english_name": "St.lgnatius High School"
+            "english_name": "St.lgnatius High School",
+            "destinations": [
+                90,
+                92
+            ]
         }
     },
     {
@@ -824,7 +1206,11 @@
         "fields": {
             "code": "O53",
             "name": "三民高中",
-            "english_name": "Sanmin Senior High School"
+            "english_name": "Sanmin Senior High School",
+            "destinations": [
+                91,
+                93
+            ]
         }
     },
     {
@@ -833,7 +1219,10 @@
         "fields": {
             "code": "O54",
             "name": "蘆洲",
-            "english_name": "Luzhou"
+            "english_name": "Luzhou",
+            "destinations": [
+                92
+            ]
         }
     },
     {
@@ -842,7 +1231,10 @@
         "fields": {
             "code": "R02",
             "name": "象山",
-            "english_name": "Xiangshan"
+            "english_name": "Xiangshan",
+            "destinations": [
+                95
+            ]
         }
     },
     {
@@ -851,7 +1243,11 @@
         "fields": {
             "code": "R03",
             "name": "台北101/世貿",
-            "english_name": "Taipei 101/World Trade Center"
+            "english_name": "Taipei 101/World Trade Center",
+            "destinations": [
+                94,
+                96
+            ]
         }
     },
     {
@@ -860,7 +1256,11 @@
         "fields": {
             "code": "R04",
             "name": "信義安和",
-            "english_name": "Xinyi Anhe"
+            "english_name": "Xinyi Anhe",
+            "destinations": [
+                95,
+                97
+            ]
         }
     },
     {
@@ -869,7 +1269,12 @@
         "fields": {
             "code": "R05",
             "name": "大安",
-            "english_name": "Daan"
+            "english_name": "Daan",
+            "destinations": [
+                96,
+                98,
+                32
+            ]
         }
     },
     {
@@ -878,7 +1283,11 @@
         "fields": {
             "code": "R06",
             "name": "大安森林公園",
-            "english_name": "Daan Park"
+            "english_name": "Daan Park",
+            "destinations": [
+                97,
+                99
+            ]
         }
     },
     {
@@ -888,7 +1297,11 @@
             "code": "R07",
             "name": "東門",
             "english_name": "Dongmen",
-            "destinations": [98, 100, 73]
+            "destinations": [
+                98,
+                100,
+                73
+            ]
         }
     },
     {
@@ -897,7 +1310,12 @@
         "fields": {
             "code": "R08",
             "name": "中正紀念堂",
-            "english_name": "Chiang Kai-Shek Memorial Hall"
+            "english_name": "Chiang Kai-Shek Memorial Hall",
+            "destinations": [
+                99,
+                101,
+                57
+            ]
         }
     },
     {
@@ -906,7 +1324,11 @@
         "fields": {
             "code": "R09",
             "name": "台大醫院",
-            "english_name": "NTU Hospital"
+            "english_name": "NTU Hospital",
+            "destinations": [
+                100,
+                102
+            ]
         }
     },
     {
@@ -915,7 +1337,12 @@
         "fields": {
             "code": "R10",
             "name": "台北車站",
-            "english_name": "Taipei Main Station"
+            "english_name": "Taipei Main Station",
+            "destinations": [
+                101,
+                103,
+                12
+            ]
         }
     },
     {
@@ -924,7 +1351,12 @@
         "fields": {
             "code": "R11",
             "name": "中山",
-            "english_name": "Zhongshan"
+            "english_name": "Zhongshan",
+            "destinations": [
+                102,
+                104,
+                61
+            ]
         }
     },
     {
@@ -933,7 +1365,11 @@
         "fields": {
             "code": "R12",
             "name": "雙連",
-            "english_name": "Shuanglian"
+            "english_name": "Shuanglian",
+            "destinations": [
+                103,
+                105
+            ]
         }
     },
     {
@@ -942,7 +1378,12 @@
         "fields": {
             "code": "R13",
             "name": "民權西路",
-            "english_name": "Minquan W. Rd."
+            "english_name": "Minquan W. Rd.",
+            "destinations": [
+                104,
+                106,
+                78
+            ]
         }
     },
     {
@@ -951,7 +1392,11 @@
         "fields": {
             "code": "R14",
             "name": "圓山",
-            "english_name": "Yuanshan"
+            "english_name": "Yuanshan",
+            "destinations": [
+                105,
+                107
+            ]
         }
     },
     {
@@ -960,7 +1405,11 @@
         "fields": {
             "code": "R15",
             "name": "劍潭",
-            "english_name": "Jiantan"
+            "english_name": "Jiantan",
+            "destinations": [
+                106,
+                108
+            ]
         }
     },
     {
@@ -969,7 +1418,11 @@
         "fields": {
             "code": "R16",
             "name": "士林",
-            "english_name": "Shilin"
+            "english_name": "Shilin",
+            "destinations": [
+                107,
+                109
+            ]
         }
     },
     {
@@ -978,7 +1431,11 @@
         "fields": {
             "code": "R17",
             "name": "芝山",
-            "english_name": "Zhishan"
+            "english_name": "Zhishan",
+            "destinations": [
+                108,
+                110
+            ]
         }
     },
     {
@@ -987,7 +1444,11 @@
         "fields": {
             "code": "R18",
             "name": "明德",
-            "english_name": "Mingde"
+            "english_name": "Mingde",
+            "destinations": [
+                109,
+                111
+            ]
         }
     },
     {
@@ -996,7 +1457,11 @@
         "fields": {
             "code": "R19",
             "name": "石牌",
-            "english_name": "Shipai"
+            "english_name": "Shipai",
+            "destinations": [
+                110,
+                112
+            ]
         }
     },
     {
@@ -1005,7 +1470,11 @@
         "fields": {
             "code": "R20",
             "name": "唭哩岸",
-            "english_name": "Qilian"
+            "english_name": "Qilian",
+            "destinations": [
+                111,
+                113
+            ]
         }
     },
     {
@@ -1014,7 +1483,11 @@
         "fields": {
             "code": "R21",
             "name": "奇岩",
-            "english_name": "Qiyan"
+            "english_name": "Qiyan",
+            "destinations": [
+                112,
+                114
+            ]
         }
     },
     {
@@ -1023,7 +1496,12 @@
         "fields": {
             "code": "R22",
             "name": "北投",
-            "english_name": "Beitou"
+            "english_name": "Beitou",
+            "destinations": [
+                113,
+                115,
+                121
+            ]
         }
     },
     {
@@ -1032,7 +1510,11 @@
         "fields": {
             "code": "R23",
             "name": "復興崗",
-            "english_name": "Fuxinggang"
+            "english_name": "Fuxinggang",
+            "destinations": [
+                114,
+                116
+            ]
         }
     },
     {
@@ -1041,7 +1523,11 @@
         "fields": {
             "code": "R24",
             "name": "忠義",
-            "english_name": "Zhongyi"
+            "english_name": "Zhongyi",
+            "destinations": [
+                115,
+                117
+            ]
         }
     },
     {
@@ -1050,7 +1536,11 @@
         "fields": {
             "code": "R25",
             "name": "關渡",
-            "english_name": "Guandu"
+            "english_name": "Guandu",
+            "destinations": [
+                116,
+                118
+            ]
         }
     },
     {
@@ -1059,7 +1549,11 @@
         "fields": {
             "code": "R26",
             "name": "竹圍",
-            "english_name": "Zhuwei"
+            "english_name": "Zhuwei",
+            "destinations": [
+                117,
+                119
+            ]
         }
     },
     {
@@ -1068,7 +1562,11 @@
         "fields": {
             "code": "R27",
             "name": "紅樹林",
-            "english_name": "Hongshulin"
+            "english_name": "Hongshulin",
+            "destinations": [
+                118,
+                120
+            ]
         }
     },
     {
@@ -1077,7 +1575,10 @@
         "fields": {
             "code": "R28",
             "name": "淡水",
-            "english_name": "Tamsui"
+            "english_name": "Tamsui",
+            "destinations": [
+                119
+            ]
         }
     },
     {
@@ -1086,7 +1587,10 @@
         "fields": {
             "code": "R22A",
             "name": "新北投",
-            "english_name": "Xinbeitou"
+            "english_name": "Xinbeitou",
+            "destinations": [
+                114
+            ]
         }
     },
     {
@@ -1095,7 +1599,11 @@
         "fields": {
             "code": "Y07",
             "name": "大坪林",
-            "english_name": "Dapinglin"
+            "english_name": "Dapinglin",
+            "destinations": [
+                51,
+                123
+            ]
         }
     },
     {
@@ -1104,7 +1612,11 @@
         "fields": {
             "code": "Y08",
             "name": "十四張",
-            "english_name": "Shisizhang"
+            "english_name": "Shisizhang",
+            "destinations": [
+                122,
+                124
+            ]
         }
     },
     {
@@ -1113,7 +1625,11 @@
         "fields": {
             "code": "Y09",
             "name": "秀朗橋",
-            "english_name": "Xiulang Bridge"
+            "english_name": "Xiulang Bridge",
+            "destinations": [
+                123,
+                125
+            ]
         }
     },
     {
@@ -1122,7 +1638,11 @@
         "fields": {
             "code": "Y10",
             "name": "景平",
-            "english_name": "Jingping"
+            "english_name": "Jingping",
+            "destinations": [
+                124,
+                126
+            ]
         }
     },
     {
@@ -1131,7 +1651,12 @@
         "fields": {
             "code": "Y11",
             "name": "景安",
-            "english_name": "Jingan"
+            "english_name": "Jingan",
+            "destinations": [
+                125,
+                127,
+                69
+            ]
         }
     },
     {
@@ -1140,7 +1665,11 @@
         "fields": {
             "code": "Y12",
             "name": "中和",
-            "english_name": "Zhonghe"
+            "english_name": "Zhonghe",
+            "destinations": [
+                126,
+                128
+            ]
         }
     },
     {
@@ -1149,7 +1678,11 @@
         "fields": {
             "code": "Y13",
             "name": "橋和",
-            "english_name": "Qiaohe"
+            "english_name": "Qiaohe",
+            "destinations": [
+                127,
+                129
+            ]
         }
     },
     {
@@ -1158,7 +1691,11 @@
         "fields": {
             "code": "Y14",
             "name": "中原",
-            "english_name": "Zhongyuan"
+            "english_name": "Zhongyuan",
+            "destinations": [
+                128,
+                130
+            ]
         }
     },
     {
@@ -1167,7 +1704,11 @@
         "fields": {
             "code": "Y15",
             "name": "板新",
-            "english_name": "Banxin"
+            "english_name": "Banxin",
+            "destinations": [
+                129,
+                131
+            ]
         }
     },
     {
@@ -1176,7 +1717,12 @@
         "fields": {
             "code": "Y16",
             "name": "板橋",
-            "english_name": "Banqiao"
+            "english_name": "Banqiao",
+            "destinations": [
+                130,
+                132,
+                7
+            ]
         }
     },
     {
@@ -1185,7 +1731,12 @@
         "fields": {
             "code": "Y17",
             "name": "新埔民生",
-            "english_name": "Xinpu Minsheng"
+            "english_name": "Xinpu Minsheng",
+            "destinations": [
+                131,
+                133,
+                8
+            ]
         }
     },
     {
@@ -1194,7 +1745,12 @@
         "fields": {
             "code": "Y18",
             "name": "頭前庄",
-            "english_name": "Touqianzhuang"
+            "english_name": "Touqianzhuang",
+            "destinations": [
+                132,
+                134,
+                84
+            ]
         }
     },
     {
@@ -1203,7 +1759,11 @@
         "fields": {
             "code": "Y19",
             "name": "幸福",
-            "english_name": "Xingfu"
+            "english_name": "Xingfu",
+            "destinations": [
+                133,
+                135
+            ]
         }
     },
     {
@@ -1212,7 +1772,10 @@
         "fields": {
             "code": "Y20",
             "name": "新北產業園區",
-            "english_name": "New Taipei Industrial Park"
+            "english_name": "New Taipei Industrial Park",
+            "destinations": [
+                134
+            ]
         }
     }
 ]

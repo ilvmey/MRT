@@ -57,6 +57,6 @@ def read_station_info():
 if __name__ == '__main__':
     urls = get_mrt_url()
     # download(urls)
-    data = read_csv()
-    data.pop(0)
-    convert_to_json(data)
+    # data = read_csv()
+    # data.pop(0)
+    # convert_to_json(data)

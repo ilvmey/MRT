@@ -1,6 +1,7 @@
-import requests
 import csv
 import json
+import requests
+import time
 from io import StringIO
 
 
@@ -18,11 +19,14 @@ def get_mrt_url():
         print(f"error: {response.status_code}")
 
 
-def download(urls):
-    for url in urls:
-        response = requests.get(url)
-        result = convert_to_csv(response.text)
-        break
+def download(url):
+    filename = get_csv_name_from_url(url)
+    print(f'Downloading {filename}...')
+    response = requests.get(url)
+    csv_data = convert_to_csv(response.text)
+    print(f'Writing to {filename}...')
+    write_csv(filename, csv_data)
+    print('done!')
 
 
 def convert_to_csv(raw_data):
@@ -44,7 +48,10 @@ def read_csv():
         reader = csv.reader(file)
         rows = [row for row in reader]
     return rows
-
+def write_csv(filename, csv_data):
+    with open(filename, mode='w', encoding='utf-8', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerows(csv_data)
 
 def read_station_info():
     filename = 'mrt_app/fixtures/station.json'
@@ -53,10 +60,13 @@ def read_station_info():
 
     return data
 
+def get_csv_name_from_url(url):
+    return url.split('_')[-1]
 
 if __name__ == '__main__':
     urls = get_mrt_url()
-    # download(urls)
+    for url in urls:
+        download(url)
     # data = read_csv()
     # data.pop(0)
     # convert_to_json(data)

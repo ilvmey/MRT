@@ -19,5 +19,9 @@ for station in stations:
     for destination in station.destinations.all():
         graph.add_edge(station.code, destination.code, edge=1)
 
-find_path(graph, 'R14', 'BL16')
+for origin in stations:
+    for destination in stations:
+        # find_path(graph, 'R14', 'BL16')
+        path = find_path(graph, origin.code, destination.code)
+        print(path.nodes, len(path.nodes))
 

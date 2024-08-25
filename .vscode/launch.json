@@ -63,5 +63,16 @@
             "django": true,
             "justMyCode": false
         },
+        {
+            "name": "Install MRT Data",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/manage.py",
+            "args": [
+                "insert_mrt_data",
+            ],
+            "django": true,
+            "justMyCode": false
+        },
     ]
 }

@@ -22,7 +22,9 @@ def get_mrt_url():
 def download(url):
     filename = get_csv_name_from_url(url)
     print(f'Downloading {filename}...')
+    st = time.time()
     response = requests.get(url)
+    print(f'Downloaded in {time.time() - st:.2f} seconds.')
     csv_data = convert_to_csv(response.text)
     print(f'Writing to {filename}...')
     write_csv(filename, csv_data)
@@ -65,7 +67,7 @@ def get_csv_name_from_url(url):
 
 if __name__ == '__main__':
     urls = get_mrt_url()
-    for url in urls:
+    for url in urls[39:]:
         download(url)
     # data = read_csv()
     # data.pop(0)

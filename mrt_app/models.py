@@ -11,14 +11,12 @@ class Station(models.Model):
         return f"{self.name} ({self.code})"
 
 
-# class OriginDestination(models.Model):
-#     date = models.DateField()
-#     hour = models.IntegerField()
-#     origin_station = models.ForeignKey(
-#         Station, on_delete=models.CASCADE, related_name='origin_stations')
-#     destination_station = models.ForeignKey(
-#         Station, on_delete=models.CASCADE, related_name='destination_stations')
-#     count = models.IntegerField(default=0)
+class OriginDestination(models.Model):
+    date = models.DateField()
+    hour = models.IntegerField()
+    origin_station = models.CharField(max_length=30)
+    destination_station = models.CharField(max_length=30)
+    count = models.IntegerField(default=0)
 
 
 class TravelTime(models.Model):

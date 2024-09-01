@@ -18,6 +18,7 @@ def convert_to_objects(header, data_chunk):
 
 def convert_csv_to_json(csv_filename):
     df = pd.read_csv(csv_filename)
+    df['日期'] = pd.to_datetime(df['日期'], format='%Y-%m-%d')
     return df.to_dict(orient='records')
 
     # print(f'Loading {csv_filename}...')

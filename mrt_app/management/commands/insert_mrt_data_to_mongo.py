@@ -24,6 +24,7 @@ class Command(BaseCommand):
         client = get_client()
         db = client['mrt']
         collection = db['mrt_od_data']
+        collection.create_index([('日期', pymongo.ASCENDING), ('時段', pymongo.ASCENDING)])
         collection.create_index([('進站', pymongo.ASCENDING), ('日期', pymongo.ASCENDING)])
         files = get_raw_data_filenames()
         urls = MRTResource.objects.filter(is_save_to_mongodb=False)

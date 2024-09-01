@@ -7,8 +7,8 @@ services:
       - 5672:5672
       - 8080:15672
     environment:
-      RABBITMQ_DEFAULT_USER: mrt
-      RABBITMQ_DEFAULT_PASS: mrt
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS}
   postgres:
     image: postgres:13
     ports:
@@ -16,3 +16,15 @@ services:
     environment:
       POSTGRES_USER: mrt
       POSTGRES_PASSWORD: mrt
+  mongodb:
+    image: mongo:latest
+    container_name: mongodb-container
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodata:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+volumes:
+  mongodata:

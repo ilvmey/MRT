@@ -47,7 +47,7 @@ def process_file(path, file):
 
 class Command(BaseCommand):
     def handle(self, *args, **kwargs):
-        path = 'mrt_app/fixtures'
+        path = 'mrt_app/fixtures/mrt'
         files = get_json_files()
 
         for file in files:

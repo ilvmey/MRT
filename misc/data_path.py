@@ -1,0 +1,1 @@
+MRT_RAW_DATA_PATH = './mrt_app/fixtures/raw_data/mrt'

@@ -1,6 +1,15 @@
 from django.db import models
 
 
+class MRTResource(models.Model):
+    url = models.URLField(max_length=300, unique=True)
+    is_download = models.BooleanField(default=False)
+    is_save_to_mongodb = models.BooleanField(default=False)
+
+    @property
+    def filename(self):
+        return self.url.split('_')[-1]
+
 class Station(models.Model):
     code = models.CharField(max_length=4)
     name = models.CharField(max_length=25)

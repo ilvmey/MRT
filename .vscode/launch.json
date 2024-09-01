@@ -63,15 +63,68 @@
             "django": true,
             "justMyCode": false
         },
+        // {
+        //     "name": "Install MRT Data",
+        //     "type": "python",
+        //     "request": "launch",
+        //     "program": "${workspaceFolder}/manage.py",
+        //     "args": [
+        //         "insert_mrt_data",
+        //     ],
+        //     "django": true,
+        //     "justMyCode": false
+        // },
         {
-            "name": "Install MRT Data",
+            "name": "Get MRT Resource",
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/manage.py",
             "args": [
-                "insert_mrt_data",
+                "get_mrt_resource",
             ],
             "django": true,
+            "justMyCode": false
+        },
+        {
+            "name": "Download MRT Data",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/manage.py",
+            "args": [
+                "download_mrt_data",
+            ],
+            "env": {
+                "PYTHONPATH": "${workspaceRoot}",
+                "DJANGO_SETTINGS_MODULE": "mrt.settings",
+            },
+            "django": true,
+            "justMyCode": false
+        },
+        {
+            "name": "Insert MRT Data To Mongo",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/manage.py",
+            "args": [
+                "insert_mrt_data_to_mongo",
+            ],
+            "env": {
+                "PYTHONPATH": "${workspaceRoot}",
+                "DJANGO_SETTINGS_MODULE": "mrt.settings",
+            },
+            "django": true,
+            "justMyCode": false
+        },
+        {
+            "name": "OD data worker",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/message_queue/od_worker.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceRoot}",
+                "DJANGO_SETTINGS_MODULE": "mrt.settings",
+            },
             "justMyCode": false
         },
     ]

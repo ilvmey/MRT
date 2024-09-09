@@ -28,11 +28,11 @@ class Command(BaseCommand):
         collection.create_index([('進站', pymongo.ASCENDING), ('日期', pymongo.ASCENDING)])
         files = get_raw_data_filenames()
         urls = MRTResource.objects.filter(is_save_to_mongodb=False)
-
+        producer = OriginDestinationProducer(conn, od_data_queue)
+        channel = conn.channel()
+        channel.queue_purge(od_data_queue.name)
         for file in files:
             url = next(filter(lambda url: url.filename == file, urls), None)
             if url is None:
                 continue
-            OriginDestinationProducer
-            producer = OriginDestinationProducer(conn, od_data_queue)
             producer.send({'filename': file, 'url_id': url.id})

@@ -17,7 +17,7 @@
             "justMyCode": false
         },
         {
-            "name": "Python: Django",
+            "name": "API",
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/manage.py",
